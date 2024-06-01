@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "ASI Summit"
+  favicon: assets/logo.png
+  search: false
+  navbar:
+    right:
+      - location.qmd
+      - registration.qmd
+      - schedule.qmd
+      - sponsors.qmd
+      - about.qmd
+
+format:
+  html:
+    theme:
+      - solar
+      - custom.scss
+    css: styles.css
+    toc: false

@@ -1,0 +1,17 @@
+---
+title: "Location"
+---
+
+## Venue
+
+The ASI Summit will be held at the [Anderson-Clarke Center](https://campusevents.rice.edu/campus-event-spaces/anderson-clarke-center){target="_blank"} on the campus of Rice University.
+
+## Parking
+
+We will have free parking available on site for ASI Summit attendees.
+
+## Hotels
+
+Check back soon for hotel block information.
+
+[![](assets/rice.png){width=500 fig-align="center"}](https://sport.rice.edu/sport-analytics-major){target="_blank"}

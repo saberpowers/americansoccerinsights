@@ -1,0 +1,23 @@
+---
+title: "American Soccer Insights Summit"
+image: assets/logo.png
+about:
+  template: jolla
+---
+
+The ASI Summit is a soccer analytics conference that brings together researchers and analysts from professional teams, media outlets and universities. The agenda strikes a balance between presentations from those doing private work and those doing public work, as well as students showcasing their projects.
+
+Students will have an opportunity to submit proposals for research projects using proprietary data.
+
+**The 2025 ASI Summit, hosted by Rice University, will last a day and a half. We will begin on the afternoon of Friday, Jan 31, 2025, and run all day Saturday, Feb 1, 2025.**
+
+Please take 5 minutes before **July 1, 2024,** to submit a response to our [interest survey](https://forms.gle/hxyarc4uHifdzxgz5){target="_blank"}.
+
+The goals of the ASI Summit are:
+
+1. to facilitate the exchange of ideas between leading thinkers in soccer analytics;
+2. to bring together MLS and NWSL analytics staffers for face-to-face interactions;
+3. to give students a platform on which to present their soccer analytics research;
+4. and to promote the work of women in soccer analytics.
+
+[![](assets/rice.png){width=500 fig-align="center"}](https://sport.rice.edu/sport-analytics-major){target="_blank"}
