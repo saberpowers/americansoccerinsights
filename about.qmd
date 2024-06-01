@@ -24,6 +24,8 @@ title: "About"
 
 Email us at [americansoccersummit@gmail.com](mailto:americansoccersummit@gmail.com)
 
+Follow us on [LinkedIn](https://www.linkedin.com/company/americansoccerinsights){target="_blank"}
+
 </section>
 <section id="subscribe" class="level2">
 <h2 class="anchored" data-anchor-id="contact">Subscribe</h2>
