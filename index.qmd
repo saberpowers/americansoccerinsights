@@ -3,6 +3,16 @@ title: "American Soccer Insights Summit"
 image: assets/logo.png
 about:
   template: jolla
+  links:
+    - text: "{{< iconify simple-icons linkedin >}}"
+      href: https://www.linkedin.com/company/americansoccerinsights/
+      target: _blank
+    - text: "{{< iconify simple-icons x >}}"
+      href: https://x.com/RiceASISummit/
+      target: _blank
+    - text: "{{< iconify simple-icons instagram >}}"
+      href: https://www.instagram.com/americansoccerinsights/
+      target: _blank
 ---
 
 The ASI Summit is a soccer analytics conference that brings together researchers and analysts from professional teams, media outlets and universities. The agenda strikes a balance between presentations from those doing private work and those doing public work, as well as students showcasing their projects.

@@ -22,9 +22,15 @@ title: "About"
 
 ## Contact
 
-Email us at [americansoccersummit@gmail.com](mailto:americansoccersummit@gmail.com)
+Email us at [americansoccersummit@gmail.com](mailto:americansoccersummit@gmail.com).
 
-Follow us on [LinkedIn](https://www.linkedin.com/company/americansoccerinsights){target="_blank"}
+Social media:
+&ensp;
+[{{< iconify simple-icons linkedin >}}](https://www.linkedin.com/company/americansoccerinsights/){target="_blank"}
+&ensp;
+[{{< iconify simple-icons x >}}](https://x.com/RiceASISummit/){target="_blank"}
+&ensp;
+[{{< iconify simple-icons instagram >}}](https://www.instagram.com/americansoccerinsights/){target="_blank"}
 
 </section>
 <section id="subscribe" class="level2">
