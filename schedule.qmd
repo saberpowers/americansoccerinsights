@@ -2,17 +2,27 @@
 title: "Schedule"
 ---
 
-*The schedule skeleton below is a rough draft to give the flavor of the agenda, and it will change.*
+## Speakers
+
+*We will update this list as we continue to confirm speakers in the months leading up to the summit.*
+
+[Ethan Creagar](https://www.linkedin.com/in/ethan-creagar-291258173/){target="_blank"} (Data Scientist, Houston Dynamo FC)
+
+[Pat Onstad](https://www.linkedin.com/in/pat-onstad-283aa978/){target="_blank"} (General Manager, Houston Dynamo FC)
 
 ## Friday, January 31, 2025
+
+*The schedule skeleton below is a rough draft to give the flavor of the agenda, and it will change.*
 
 1:00p-2:00p Keynote Speaker
 
 2:00p-4:00p Speaker Session 1
 
-5:00p-7:00p Women in Soccer Analytics Reception
+5:00p-7:00p Women in Soccer Analytics Networking Reception
 
 ## Saturday, February 1, 2025
+
+*The schedule skeleton below is a rough draft to give the flavor of the agenda, and it will change.*
 
 9:00a-11:00a Speaker Session 2
 
