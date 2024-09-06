@@ -2,7 +2,7 @@
 title: "Registration"
 ---
 
-#### Regular Pricing
+## Regular Pricing
 
 Early registration features a 10% discount and is available until December 1, or until we sell out.
 
@@ -10,7 +10,7 @@ Early registration (up to December 1): $180
 
 Late registration (after December 1): $200
 
-#### Student Pricing (with valid student ID)
+## Student Pricing (with valid student ID)
 
 Student-priced registrations are limited, so students are encouraged not to delay registration.
 
