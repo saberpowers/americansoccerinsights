@@ -32,7 +32,21 @@
     "href": "registration.html",
     "title": "Registration",
     "section": "",
-    "text": "Regular Pricing\nEarly registration features a 10% discount and is available until December 1, or until we sell out.\nEarly registration (up to December 1): $180\nLate registration (after December 1): $200\n\n\nStudent Pricing (with valid student ID)\nStudent-priced registrations are limited, so students are encouraged not to delay registration.\nEarly registration (up to December 1): $90\nLate registration (after December 1): $100\n\n Register"
+    "text": "Early registration features a 10% discount and is available until December 1, or until we sell out.\nEarly registration (up to December 1): $180\nLate registration (after December 1): $200"
+  },
+  {
+    "objectID": "registration.html#regular-pricing",
+    "href": "registration.html#regular-pricing",
+    "title": "Registration",
+    "section": "",
+    "text": "Early registration features a 10% discount and is available until December 1, or until we sell out.\nEarly registration (up to December 1): $180\nLate registration (after December 1): $200"
+  },
+  {
+    "objectID": "registration.html#student-pricing-with-valid-student-id",
+    "href": "registration.html#student-pricing-with-valid-student-id",
+    "title": "Registration",
+    "section": "Student Pricing (with valid student ID)",
+    "text": "Student Pricing (with valid student ID)\nStudent-priced registrations are limited, so students are encouraged not to delay registration.\nEarly registration (up to December 1): $90\nLate registration (after December 1): $100\n\n Register"
   },
   {
     "objectID": "index.html",
@@ -46,7 +60,7 @@
     "href": "sponsors.html",
     "title": "Sponsors",
     "section": "",
-    "text": "The ASI Summit is partially funded by a grant from the Office of Research at Rice.\nWe are seeking additional sponsors to keep registration costs accessible and to fund travel for deserving students. If you are interested in becoming a sponsor, please contact us at americansoccersummit@gmail.com."
+    "text": "The ASI Summit is partially funded by a grant from the Office of Research at Rice.\nWe are seeking additional sponsors to keep registration costs accessible and to fund travel for deserving students. If you are interested in becoming a sponsor, please contact us at americansoccerinsights@gmail.com."
   },
   {
     "objectID": "about.html",
@@ -67,7 +81,7 @@
     "href": "about.html#contact",
     "title": "About",
     "section": "Contact",
-    "text": "Contact\nEmail us at americansoccersummit@gmail.com.\nSocial media:"
+    "text": "Contact\nEmail us at americansoccerinsights@gmail.com.\nSocial media:"
   },
   {
     "objectID": "about.html#subscribe",
