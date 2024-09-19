@@ -35,7 +35,7 @@ Social media:
 </section>
 <section id="subscribe" class="level2">
 <h2 class="anchored" data-anchor-id="contact">Subscribe</h2>
-<p>Submit your information below to subscribe to email updates about the summit.</p>
+<p>Submit your information below to subscribe to email updates about the Summit.</p>
 <div id="mc_embed_shell">
 <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
 <style type="text/css">
