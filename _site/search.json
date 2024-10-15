@@ -28,39 +28,46 @@
     "text": "Saturday, February 1, 2025\nThe schedule skeleton below is a rough draft to give the flavor of the agenda, and it will change.\n9:00a-11:00a Speaker Session 2\n11:00a-12:00p Speaker Session 3A\n1:30p-2:30p Speaker Session 3B\n3:00p-5:00p Speaker Session 4\nStudents will have an opportunity to submit proposals for research projects using proprietary data."
   },
   {
-    "objectID": "registration.html",
-    "href": "registration.html",
-    "title": "Registration",
+    "objectID": "call-for-proposals.html",
+    "href": "call-for-proposals.html",
+    "title": "Call for Proposals",
     "section": "",
-    "text": "Early registration features a 10% discount and is available until December 1, or until we sell out.\nEarly registration (up to December 1): $180\nLate registration (after December 1): $200"
+    "text": "Do you have a cool idea for a research project that you could tackle, if only you had access to some good data? Here is your opportunity! In partnership with SkillCorner, we are excited to offer women’s soccer tracking data to support the researchers who send us the very best proposals. Selected researchers will receive data to complete their proposed projects and invitations to give brief presentations on stage at the Summit."
   },
   {
-    "objectID": "registration.html#regular-pricing",
-    "href": "registration.html#regular-pricing",
-    "title": "Registration",
-    "section": "",
-    "text": "Early registration features a 10% discount and is available until December 1, or until we sell out.\nEarly registration (up to December 1): $180\nLate registration (after December 1): $200"
+    "objectID": "call-for-proposals.html#theme",
+    "href": "call-for-proposals.html#theme",
+    "title": "Call for Proposals",
+    "section": "Theme",
+    "text": "Theme\nSoccer is a sport of match-ups: how does one team match-up against another; how does an individual player match-up against an opponent player; how does one strategy match-up against another? The theme for this research contest is the open-ended concept of match-ups in soccer. All proposals should in some way address how a specific match-up in soccer can be analyzed using data. This may include touching on any of the following questions or any original questions dealing with match-ups:\n\nMethods to quantify individual player match-ups (ex. A winger against an opposing full-back)\nAnalyzing the efficiency of various formations or tactics against each other\nAnalyzing the efficiency of various pressing methods against different build-up approaches"
   },
   {
-    "objectID": "registration.html#student-pricing-with-valid-student-id",
-    "href": "registration.html#student-pricing-with-valid-student-id",
-    "title": "Registration",
-    "section": "Student Pricing (with valid student ID)",
-    "text": "Student Pricing (with valid student ID)\nStudent-priced registrations are limited, so students are encouraged not to delay registration.\nEarly registration (up to December 1): $90\nLate registration (after December 1): $100\n\n Register"
+    "objectID": "call-for-proposals.html#data",
+    "href": "call-for-proposals.html#data",
+    "title": "Call for Proposals",
+    "section": "Data",
+    "text": "Data\nThe dataset available to selected research proposals will comprise tracking and event data from SkillCorner covering the 2023 National Women’s Soccer League season (132 matches) and the 2023-24 English Women’s Super League season (132 matches). In addition to player and ball tracking, SkillCorner’s Game Intelligence data provide Dynamic Events such as passes, player possessions/carries, and off-ball runs, as well as player-level aggregations of physical performance metrics (total distance, sprints, high-intensity activity, acceleration, etc.)."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "American Soccer Insights Summit",
-    "section": "",
-    "text": "The ASI Summit is a soccer analytics conference that brings together researchers and analysts from professional teams, media outlets and universities. The agenda strikes a balance between presentations from those doing private work and those doing public work, as well as students showcasing their projects.\nStudents will have an opportunity to submit proposals for research projects using proprietary data.\nThe 2025 ASI Summit, hosted by Rice University, will last a day and a half. We will begin on the afternoon of Friday, Jan 31, 2025, and run all day Saturday, Feb 1, 2025.\nThe goals of the ASI Summit are:\n\nto facilitate the exchange of ideas between leading thinkers in soccer analytics;\nto bring together MLS and NWSL analytics staffers for face-to-face interactions;\nto give students a platform on which to present their soccer analytics research;\nand to promote the work of women in soccer analytics."
+    "objectID": "call-for-proposals.html#eligibility",
+    "href": "call-for-proposals.html#eligibility",
+    "title": "Call for Proposals",
+    "section": "Eligibility",
+    "text": "Eligibility\nWe have two tracks for submission: Undergraduate and Open.\nTo be eligible for an Undergraduate submission, the lead author of the proposal (who would present on stage at the Summit) must be an undergraduate student (high school is okay). We encourage collaborations, and the team need NOT be composed entirely of students. Each selected Undergraduate proposal will be paired with an academic or industry expert mentor to help them complete their proposed project.\nThere are no eligibility requirements for the Open track. We encourage collaborations. Only the lead author will be invited to present on stage at the Summit."
   },
   {
-    "objectID": "sponsors.html",
-    "href": "sponsors.html",
-    "title": "Sponsors",
-    "section": "",
-    "text": "The ASI Summit is partially funded by a grant from the Office of Research at Rice.\nWe are seeking additional sponsors to keep registration costs accessible and to fund travel for deserving students. If you are interested in becoming a sponsor, please contact us at americansoccerinsights@gmail.com."
+    "objectID": "call-for-proposals.html#submission",
+    "href": "call-for-proposals.html#submission",
+    "title": "Call for Proposals",
+    "section": "Submission",
+    "text": "Submission\nPlease submit your proposal as a PDF attachment (no more than two pages) in an email to americansoccerinsights@gmail.com with subject line “2025 ASI Summit Proposal”. In the body of the email, provide the names and affiliations of all authors, and indicate whether you are submitting for the Undergradute track or the Open track. To faciliate anonymized review, do not include any personally identifying information in the PDF attachment.\nThe deadline for submission is 11:59 p.m. CT on Monday, Nov 4, 2024."
+  },
+  {
+    "objectID": "call-for-proposals.html#review",
+    "href": "call-for-proposals.html#review",
+    "title": "Call for Proposals",
+    "section": "Review",
+    "text": "Review\nWe will begin reviewing proposals after the submission deadline and aim to release decisions by early December. Selected researchers are expected to complete their projects between early December and late January."
   },
   {
     "objectID": "about.html",
@@ -89,6 +96,41 @@
     "title": "About",
     "section": "\nSubscribe\n",
     "text": "Subscribe\n\n\nSubmit your information below to subscribe to email updates about the Summit.\n\n\n\n\n\n\n\n\n* indicates required\n\n\nEmail Address *\n\n\nFirst Name (optional) \n\n\nLast Name (optional) \n\n\nAffiliation (optional) e.g. Employer or Organization or School\n\n\nOccupation (optional) Industry ProfessionalWriter/JournalistAcademicStudentPlayerCoachOtherWhat best describes your relationship to soccer?\n\n\n\n\n\n\n\n\n\n\n/* real people should not fill this in and expect good things - do not remove this or risk form bot signups */"
+  },
+  {
+    "objectID": "sponsors.html",
+    "href": "sponsors.html",
+    "title": "Sponsors",
+    "section": "",
+    "text": "The ASI Summit is partially funded by a grant from the Office of Research at Rice.\nWe are seeking additional sponsors to keep registration costs accessible and to fund travel for deserving students. If you are interested in becoming a sponsor, please contact us at americansoccerinsights@gmail.com."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "American Soccer Insights Summit",
+    "section": "",
+    "text": "The ASI Summit is a soccer analytics conference that brings together researchers and analysts from professional teams, media outlets and universities. The agenda strikes a balance between presentations from those doing private work and those doing public work, as well as students showcasing their projects.\nStudents will have an opportunity to submit proposals for research projects using proprietary data.\nThe 2025 ASI Summit, hosted by Rice University, will last a day and a half. We will begin on the afternoon of Friday, Jan 31, 2025, and run all day Saturday, Feb 1, 2025.\nThe goals of the ASI Summit are:\n\nto facilitate the exchange of ideas between leading thinkers in soccer analytics;\nto bring together MLS and NWSL analytics staffers for face-to-face interactions;\nto give students a platform on which to present their soccer analytics research;\nand to promote the work of women in soccer analytics."
+  },
+  {
+    "objectID": "registration.html",
+    "href": "registration.html",
+    "title": "Registration",
+    "section": "",
+    "text": "Early registration features a 10% discount and is available until December 1, or until we sell out.\nEarly registration (up to December 1): $180\nLate registration (after December 1): $200"
+  },
+  {
+    "objectID": "registration.html#regular-pricing",
+    "href": "registration.html#regular-pricing",
+    "title": "Registration",
+    "section": "",
+    "text": "Early registration features a 10% discount and is available until December 1, or until we sell out.\nEarly registration (up to December 1): $180\nLate registration (after December 1): $200"
+  },
+  {
+    "objectID": "registration.html#student-pricing-with-valid-student-id",
+    "href": "registration.html#student-pricing-with-valid-student-id",
+    "title": "Registration",
+    "section": "Student Pricing (with valid student ID)",
+    "text": "Student Pricing (with valid student ID)\nStudent-priced registrations are limited, so students are encouraged not to delay registration.\nEarly registration (up to December 1): $90\nLate registration (after December 1): $100\n\n Register"
   },
   {
     "objectID": "location.html",
