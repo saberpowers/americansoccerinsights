@@ -14,7 +14,32 @@ Soccer is a sport of match-ups: how does one team match-up against another; how 
 
 ## Data
 
-The dataset available to selected research proposals will comprise tracking and event data from SkillCorner covering the 2023 National Women's Soccer League season (132 matches) and the 2023-24 English Women's Super League season (132 matches). In addition to player and ball tracking, SkillCorner's [Game Intelligence](https://skillcorner.com/contextual-data){target="_blank"} data provide Dynamic Events such as passes, player possessions/carries, and off-ball runs, as well as player-level aggregations of physical performance metrics (total distance, sprints, high-intensity activity, acceleration, etc.).
+The dataset available to selected research proposals will comprise tracking and event data from SkillCorner covering the 2023 National Women's Soccer League season (132 matches) and the 2023-24 English Women's Super League season (132 matches).
+
+SkillCorner [Game Intelligence](https://skillcorner.com/contextual-data){target="_blank"} combines and synchronises event and tracking data to create integrated physical, technical and tactical metrics, forming the world’s broadest and deepest football performance dataset for both on-ball and off-ball analysis:
+
+**On-ball: Understand passer tendencies and evaluate passing decisions**
+
+- Line breaking passes/opportunities
+- Dangerous/difficult passes
+- Execution under different levels of pressure
+
+**On-ball: Identify players that create movement on-ball**
+
+- Initiate give and goes
+- Receive backward and play forward
+- Possession retention when under different levels of pressure
+
+**Off-ball: Find players who support the ball carrier effectively**
+
+- Options between lines, in space
+- Off-ball runs broken down by type and threat
+- Off-ball runs that lead to shot and/or goals
+
+**Off-ball: Combine tactical and physical insights**
+
+- Speeds, trajectory, angles for different types of movements
+- Sequences of off-ball runs to create threat
 
 ## Eligibility
 
