@@ -8,11 +8,15 @@ title: "Schedule"
 
 [Ethan Creagar](https://www.linkedin.com/in/ethan-creagar-291258173/){target=_blank} (Data Scientist, Houston Dynamo FC)
 
+[Arielle Dror](https://www.linkedin.com/in/arielledror/){target=_blank} (Director of Data & Analytics, Bay FC)
+
 [Tianyu Guan](https://tianyuguan.github.io/){target=_blank} (Assistant Professor of Statistics, York University)
 
 [John Muller](https://johnspacemuller.com/){target=_blank} (Football writer, The Athletic, FiveThirtyEight, and more)
 
 [Pat Onstad](https://www.linkedin.com/in/pat-onstad-283aa978/){target=_blank} (General Manager, Houston Dynamo FC)
+
+[Weining Shen](https://faculty.sites.uci.edu/weinings/){target=_blank} (Associate Professor of Statistics, UC Irvine)
 
 [Stefan Szymanski](https://www.kines.umich.edu/directory/stefan-szymanski){target=_blank} (Professor of Sport Management, University of Michigan)
 
