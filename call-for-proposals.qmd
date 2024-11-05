@@ -2,7 +2,11 @@
 title: "Call for Proposals"
 ---
 
+The call for proposals is now closed for the 2025 American Soccer Insights Summit.
+
+<!--
 Do you have a cool idea for a research project that you could tackle, if only you had access to some good data? Here is your opportunity! In partnership with [SkillCorner](https://www.skillcorner.com){target="_blank"}, we are excited to offer women's soccer tracking data to support the researchers who send us the very best proposals. Selected researchers will receive data to complete their proposed projects and invitations to give brief presentations on stage at the Summit.
+-->
 
 ## Theme
 
@@ -49,11 +53,13 @@ To be eligible for an Undergraduate submission, the lead author of the proposal 
 
 There are no eligibility requirements for the Open track. We encourage collaborations. Only the lead author will be invited to present on stage at the Summit.
 
+<!--
 ## Submission
 
 Please submit your proposal as a PDF attachment (no more than two pages) in an email to [americansoccerinsights@gmail.com](mailto:americansoccerinsights@gmail.com) with subject line "2025 ASI Summit Proposal". In the body of the email, provide the names and affiliations of all authors, and indicate whether you are submitting for the Undergradute track or the Open track. **To faciliate anonymized review, do not include any personally identifying information in the PDF attachment.**
 
 The deadline for submission is 11:59 p.m. CT on Monday, Nov 4, 2024.
+-->
 
 ## Review
 
