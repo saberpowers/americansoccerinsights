@@ -8,6 +8,8 @@ title: "Schedule"
 
 [Ethan Creagar](https://www.linkedin.com/in/ethan-creagar-291258173/){target=_blank} (Data Scientist, Houston Dynamo FC)
 
+[Alejandro D&aacute;vila](https://www.linkedin.com/in/alejandro-a-d%C3%A1vila-v-3823a0100/){target=_blank} (Director of Analysis, Mazatl&aacute;n FC)
+
 [Arielle Dror](https://www.linkedin.com/in/arielledror/){target=_blank} (Director of Data & Analytics, Bay FC)
 
 [Tianyu Guan](https://tianyuguan.github.io/){target=_blank} (Assistant Professor of Statistics, York University)

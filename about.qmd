@@ -4,21 +4,23 @@ title: "About"
 
 ## Organizers
 
-[Sam Gregory](https://www.samgregory.me/){target="_blank"} (US Soccer)
+[Sam Gregory](https://www.samgregory.me/){target=_blank} (US Soccer)
 
-[Ravi Ramineni](https://www.linkedin.com/in/ravi-ramineni-3798374/){target="_blank"} (src | ftbl)
+[Ravi Ramineni](https://www.linkedin.com/in/ravi-ramineni-3798374/){target=_blank} (src | ftbl)
 
-[Sarah Rudd](https://www.linkedin.com/in/sarahrudd/){target="_blank"} (src | ftbl)
+[Sarah Rudd](https://www.linkedin.com/in/sarahrudd/){target=_blank} (src | ftbl)
 
-[Seth Davidson](https://www.linkedin.com/in/seth-davidson-834b80221/){target="_blank"} (Rice University)
+[Seth Davidson](https://www.linkedin.com/in/seth-davidson-834b80221/){target=_blank} (Rice University)
 
-[Zefa Tullis-Thompson](https://www.linkedin.com/in/zefa-tullis-thompson-3773a424a/){target="_blank"} (Rice University)
+[Zefa Tullis-Thompson](https://www.linkedin.com/in/zefa-tullis-thompson-3773a424a/){target=_blank} (Rice University)
 
-[Tom Stallings](https://www.linkedin.com/in/tom-stallings-7b25a06/){target="_blank"} (Rice University)
+[Rose Graves](https://www.linkedin.com/in/rose-graves/){target=_blank} (Rice University)
 
-[Guanyu Hu](https://sites.google.com/site/nealguanyu/){target="_blank"} (UTHealth Houston)
+[Tom Stallings](https://www.linkedin.com/in/tom-stallings-7b25a06/){target=_blank} (Rice University)
 
-[Scott Powers](https://saberpowers.github.io/){target="_blank"} (Rice University)
+[Guanyu Hu](https://sites.google.com/site/nealguanyu/){target=_blank} (UTHealth Houston)
+
+[Scott Powers](https://saberpowers.github.io/){target=_blank} (Rice University)
 
 ## Contact
 
