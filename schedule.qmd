@@ -1,55 +1,108 @@
 ---
 title: "Schedule"
+toc: true
 ---
-
-## Speakers
-
-*We will update this list as we continue to confirm speakers in the months leading up to the Summit.*
-
-[Ethan Creagar](https://www.linkedin.com/in/ethan-creagar-291258173/){target=_blank} (Data Scientist, Houston Dynamo FC)
-
-[Alejandro D&aacute;vila](https://www.linkedin.com/in/alejandro-a-d%C3%A1vila-v-3823a0100/){target=_blank} (Director of Analysis, Mazatl&aacute;n FC)
-
-[Arielle Dror](https://www.linkedin.com/in/arielledror/){target=_blank} (Director of Data & Analytics, Bay FC)
-
-[Tianyu Guan](https://tianyuguan.github.io/){target=_blank} (Assistant Professor of Statistics, York University)
-
-[Lydia Jackson](https://www.linkedin.com/in/lydia-j-676b0386/){target=_blank} (Machine Learning Engineer, Teamworks/Zelus)
-
-[John Muller](https://johnspacemuller.com/){target=_blank} (Football writer, The Athletic, FiveThirtyEight, and more)
-
-[Sachin Narayanan](https://www.linkedin.com/in/sachin-devnathan-narayanan-924220155/){target=_blank} (Doctoral Candidate, Florida State University)
-
-[Pat Onstad](https://www.linkedin.com/in/pat-onstad-283aa978/){target=_blank} (General Manager, Houston Dynamo FC)
-
-[Weining Shen](https://faculty.sites.uci.edu/weinings/){target=_blank} (Associate Professor of Statistics, UC Irvine)
-
-[Stefan Szymanski](https://www.kines.umich.edu/directory/stefan-szymanski){target=_blank} (Professor of Sport Management, University of Michigan)
-
-[Zayne M. Thomajan](https://www.linkedin.com/in/zaynematulisthom/){target=_blank} (Chief Soccer Officer, NJ/NY Gotham FC)
 
 ## Friday, January 31, 2025
 
-*The schedule skeleton below is a rough draft to give the flavor of the agenda, and it will change.*
+### 1:00p Registration
 
-1:00p-2:00p Keynote Speaker
+### 1:35p Afternoon Session 1
 
-2:00p-4:00p Speaker Session 1
+1:35p Summit Welcome
 
-5:00p-7:00p Women in Soccer Analytics Networking Reception
+1:50p
+[Lucy Rowland](https://www.linkedin.com/in/lucyrowland/){target=_blank} (Founder & CEO, BootUp Analytics)
+
+2:15p
+[Alejandro D&aacute;vila](https://www.linkedin.com/in/alejandro-a-d%C3%A1vila-v-3823a0100/){target=_blank} (Director of Analysis, Mazatl&aacute;n FC)
+
+2:40p
+[Michael Nanopoulous](https://www.linkedin.com/in/michael-nanopoulos-2b2a192a/){target=_blank} (Head of Analysis, SkillCorner)\
+&emsp; Introduction to the NWSL/WSL Research Breakaways
+
+### 3:05p Afternoon Break
+
+### 3:35p Afternoon Session 2
+
+3:35p
+[Brian Greenwood](https://www.linkedin.com/in/bgrnwd/){target=_blank} (American Soccer Analysis)
+
+4:00p
+[Kushal Gupta](https://www.linkedin.com/in/kushalgupta0206/){target=_blank} (Rice University & src | ftbl)
+
+4:15p Interactive Round Table Discussions
+
+### 5:30p Networking Reception: Women in Soccer Analytics
 
 ## Saturday, February 1, 2025
 
-*The schedule skeleton below is a rough draft to give the flavor of the agenda, and it will change.*
+### 8:00a Registration and Breakfast
 
-9:00a-11:00a Speaker Session 2
+### 9:00a Morning Sesssion 1
 
-11:00a-12:00p Speaker Session 3A
+9:00a Saturday Welcome
 
-1:30p-2:30p Speaker Session 3B
+9:10a
+[Ethan Creagar](https://www.linkedin.com/in/ethan-creagar-291258173/){target=_blank}
+and [Pat Onstad](https://www.linkedin.com/in/pat-onstad-283aa978/){target=_blank}
+(Data Scientist and General Manager, Houston Dynamo FC)
 
-3:00p-5:00p Speaker Session 4
+9:50a NWSL/WSL Research Breakaway #1
 
-Students will have an opportunity to submit proposals for research projects using proprietary data.
+10:00a
+[Arielle Dror](https://www.linkedin.com/in/arielledror/){target=_blank} (Director of Data & Analytics, Bay FC)
+
+10:25a NWSL/WSL Research Breakaway #2
+
+### 10:35a Morning Break
+
+### 11:05a Morning Session 2
+
+11:05a
+[Stefan Szymanski](https://www.kines.umich.edu/directory/stefan-szymanski){target=_blank} (Professor of Sport Management, University of Michigan)
+
+11:45a NWSL/WSL Research Breakaway #3
+
+11:55a
+[John Muller](https://johnspacemuller.com/){target=_blank} (Football writer, The Athletic, FiveThirtyEight, and more)\
+&emsp; "Numbers talk — now make them tell a story"
+
+12:20p NWSL/WSL Research Breakaway #4
+
+### 12:30p Lunch
+
+### 1:30p Afternoon Session 1
+
+1:30p
+[Tianyu Guan](https://tianyuguan.github.io/){target=_blank} (Assistant Professor of Statistics, York University)\
+&emsp; "Soccer analytics using event data and tracking data"
+
+1:55p NWSL/WSL Research Breakaway #5
+
+2:05p
+[Weining Shen](https://faculty.sites.uci.edu/weinings/){target=_blank} (Associate Professor of Statistics, UC Irvine)\
+&emsp; "Large language models in sports analytics"
+
+2:30p NWSL/WSL Research Breakaway #6
+
+2:40p
+[Sachin Narayanan](https://www.linkedin.com/in/sachin-devnathan-narayanan-924220155/){target=_blank} (Doctoral Candidate, Florida State University)
+
+### 3:05p Afternoon Break
+
+### 3:35p Afternoon Session 2
+
+3:35p
+[Lydia Jackson](https://www.linkedin.com/in/lydia-j-676b0386/){target=_blank} (Machine Learning Engineer, Teamworks/Zelus)
+
+4:00p NWSL/WSL Research Breakaway #7
+
+4:10p
+[Zayne M. Thomajan](https://www.linkedin.com/in/zaynematulisthom/){target=_blank} (Chief Soccer Officer, NJ/NY Gotham FC)
+
+4:50p NWSL/WSL Research Breakaway #8
+
+### 5:00p Live Podcast: *Expected Own Goals*
 
 [![](assets/rice.png){width=500 fig-align="center"}](https://sport.rice.edu/sport-analytics-major){target="_blank"}

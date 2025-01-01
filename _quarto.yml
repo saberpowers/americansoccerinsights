@@ -19,4 +19,3 @@ format:
       - solar
       - custom.scss
     css: styles.css
-    toc: false
