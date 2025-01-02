@@ -1,0 +1,47 @@
+---
+title: "Code of Conduct"
+toc: true
+---
+
+## Introduction
+
+The goals of the ASI Summit are:
+
+1. to facilitate the exchange of ideas between leading thinkers in soccer analytics;
+2. to bring together MLS and NWSL analytics staffers for face-to-face interactions;
+3. to give students a platform on which to present their soccer analytics research;
+4. and to promote the work of women in soccer analytics.
+
+To achieve these objectives, the Summit promotes the highest standards of ethical and respectful conduct in both professional practice and interactions during Summit activities. This Code of Conduct outlines the standards expected from all participants, including attendees, organizers, speakers, sponsors and volunteers.
+
+## Standards of Good Conduct
+
+1. Uphold and promote ethical professional practices in soccer analytics and related fields.
+2. Ensure and advocate for equal opportunity for all Summit participants, regardless of background or identity.
+3. Promote a culture of respectful, inclusive and harassment-free interactions among all Summit participants.
+4. Avoid actions that knowingly or carelessly endanger the safety, security or well-being of others.
+5. Refrain from violating these standards or facilitating situations where these standards are contravened.
+6. Cooperate with the Summit reporting and conduct review procedures when necessary.
+7. Avoid retaliation against any individual who reports concerns or participates in a conduct review.
+
+## Ethical Professional Practices
+
+The Summit emphasizes integrity, accountability and ethical conduct in all professional and analytical practices. Participants are encouraged to adhere to ethical guidelines such as those set forth by the American Statistical Association's [Ethical Guidelines for Statistical Practice](https://www.amstat.org/your-career/ethical-guidelines-for-statistical-practice){target=_blank}. In cases where no explicit guidelines exist, participants should consider the general principles of ethical practice, societal expectations and applicable legal and contractual obligations.
+
+## Equal Opportunity
+
+The Summit is committed to providing equal opportunities for all, irrespective of race, ethnicity, religion, gender identity, sexual orientation, age, disability, nationality or other protected characteristics. Participants are expected to treat one another with respect and dignity; to avoid discriminatory behavior; and to actively support inclusivity within the Summit's environment.
+
+## Anti-Harassment
+
+The Summit maintains a respectful and collegial environment free from harassment. Harassment includes any behavior that unreasonably interferes with a participant's experience or creates an intimidating, hostile, or offensive atmosphere. Examples of harassment include (but are not limited to) verbal abuse, inappropriate comments or jokes, unwelcome physical contact and repeated disruption of activities.
+
+## Reporting and Enforcement
+
+Participants who experience, observe or have knowledge of conduct that violates this Code are encouraged to report it to Summit organizers. Reports can be made in person; via email to [americansoccerinsights@gmail.com](mailto:americansoccerinsights@gmail.com); or through an anonymous [reporting form](https://forms.gle/vyWduv2tbebk3cSP6){target=_blank}. The organizers will handle reports confidentially, investigate promptly and take appropriate actions.
+
+## Code of Conduct Maintenance
+
+This Code of Conduct is part of an ongoing effort to ensure that the Summit remains a safe, inclusive and productive event. It is subject to periodic review and updates to reflect the evolving needs of the community and Summit participants. While comprehensive, this document may not address every potential issue, and participants are encouraged to act in the spirit of these guidelines at all times.
+
+[![](../assets/rice.png){width=500 fig-align="center"}](https://sport.rice.edu/sport-analytics-major){target="_blank"}

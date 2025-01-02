@@ -4,7 +4,7 @@ title: "Location"
 
 ## Venue
 
-The ASI Summit will be held at the [Anderson-Clarke Center](https://campusevents.rice.edu/campus-event-spaces/anderson-clarke-center){target="_blank"} on the campus of Rice University.
+The ASI Summit will be held at the [Anderson-Clarke Center](https://maps.app.goo.gl/ABPezAvhSctTMfdw5){target="_blank"} on the campus of Rice University.
 
 ## Parking
 
@@ -13,5 +13,9 @@ We will have free parking available on site for ASI Summit attendees.
 ## Hotels
 
 We have a limited number of rooms reserved in a block at the nearby [DoubleTree in the Houston Medical Center](https://maps.app.goo.gl/5VWrK7cPydD1Be4t7){target="_blank"}, a 15-minute walk from the Anderson-Clarke Center. Book your stay at our discounted group rate using this [link](https://group.doubletree.com/ne6son){target="_blank"}.
+
+## Child and Family Care
+
+[Kids Garden](https://kidsplaygarden.com/houston){target=_blank} (two miles from the DoubleTree in the Houston Medical Center) is a flexible learning center which offers drop-in childcare starting at $18/hour for non-members. Alternatively, [Destination Sitters](https://www.destinationsitters.com/){target=_blank} is an agency that offers prescreened, fully vetted childcare providers who travel to the customer's hotel, starting at $32/hour.
 
 [![](assets/rice.png){width=500 fig-align="center"}](https://sport.rice.edu/sport-analytics-major){target="_blank"}

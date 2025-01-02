@@ -7,6 +7,8 @@ website:
   search: false
   navbar:
     right:
+      - text: Conduct
+        href: conduct/index.qmd
       - location.qmd
       - registration.qmd
       - schedule.qmd
