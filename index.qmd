@@ -1,5 +1,7 @@
 ---
-title: "American Soccer Insights Summit"
+title: |
+  | American Soccer Insights Summit:
+  | Building Bridges for Research in Statistics
 image: assets/logo.png
 about:
   template: jolla
@@ -19,7 +21,7 @@ The ASI Summit is a soccer analytics conference that brings together researchers
 
 The 2025 ASI Summit, hosted by Rice University, will last a day and a half. We will begin on the afternoon of Friday, Jan 31, 2025, and run all day Saturday, Feb 1, 2025.
 
-**Early registration is [open](registration.qmd) through December 2.**
+**Registration is [open](registration.qmd) through January 24.**
 
 The goals of the ASI Summit are:
 
