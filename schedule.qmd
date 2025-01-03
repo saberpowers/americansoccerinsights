@@ -7,42 +7,47 @@ toc: true
 
 ### 1:00p Registration
 
-### 1:35p Afternoon Session 1
+### 2:00p Afternoon Session 1
 
-1:35p Summit Welcome
-
-1:50p
-[Lucy Rowland](https://www.linkedin.com/in/lucyrowland/){target=_blank} (Founder & CEO, BootUp Analytics)
+2:00p Summit Welcome
 
 2:15p
 [Alejandro D&aacute;vila](https://www.linkedin.com/in/alejandro-a-d%C3%A1vila-v-3823a0100/){target=_blank} (Director of Analysis, Mazatl&aacute;n FC)
 
 2:40p
-[Michael Nanopoulous](https://www.linkedin.com/in/michael-nanopoulos-2b2a192a/){target=_blank} (Head of Analysis, SkillCorner)\
-&emsp; Introduction to the NWSL/WSL Research Breakaways
+[Brian Greenwood](https://www.linkedin.com/in/bgrnwd/){target=_blank}
+and [Tyler Richardett](https://www.linkedin.com/in/tylerrichardett/){target=_blank} (American Soccer Analysis)
 
 ### 3:05p Afternoon Break
 
 ### 3:35p Afternoon Session 2
 
 3:35p
-[Brian Greenwood](https://www.linkedin.com/in/bgrnwd/){target=_blank} (American Soccer Analysis)
+[Michael Nanopoulous](https://www.linkedin.com/in/michael-nanopoulos-2b2a192a/){target=_blank} (Head of Analysis, SkillCorner)\
+&emsp; Introduction to the NWSL/WSL Research Breakaways
 
 4:00p
 [Kushal Gupta](https://www.linkedin.com/in/kushalgupta0206/){target=_blank} (Rice University & src | ftbl)
 
 4:15p Interactive Round Table Discussions
 
+5:00p Friday Content Concludes
+
 ### 5:30p Networking Reception: Women in Soccer Analytics
+
+All Summit participants are welcome. RSVP is required by January 24.
 
 ## Saturday, February 1, 2025
 
 ### 8:00a Registration and Breakfast
 
+Enjoy breakfast tacos from [Black Walnut Cafe](https://www.blackwalnutcafe.com/){target=_blank} and coffee/tea from [Common Bond](https://www.commonbondcafe.com/){target=_blank}
+
 ### 9:00a Morning Sesssion 1
 
 9:00a Saturday Welcome
 
+*Opening Industry Keynote*\
 9:10a
 [Ethan Creagar](https://www.linkedin.com/in/ethan-creagar-291258173/){target=_blank}
 and [Pat Onstad](https://www.linkedin.com/in/pat-onstad-283aa978/){target=_blank}
@@ -57,10 +62,12 @@ and [Pat Onstad](https://www.linkedin.com/in/pat-onstad-283aa978/){target=_blank
 
 ### 10:35a Morning Break
 
+Enjoy and coffee and tea from [Common Bond](https://www.commonbondcafe.com/){target=_blank}
+
 ### 11:05a Morning Session 2
 
-11:05a
-[Stefan Szymanski](https://www.kines.umich.edu/directory/stefan-szymanski){target=_blank} (Professor of Sport Management, University of Michigan)
+*Academic Keynote*\
+11:05a [Stefan Szymanski](https://www.kines.umich.edu/directory/stefan-szymanski){target=_blank} (Professor of Sport Management, University of Michigan)
 
 11:45a NWSL/WSL Research Breakaway #3
 
@@ -71,6 +78,8 @@ and [Pat Onstad](https://www.linkedin.com/in/pat-onstad-283aa978/){target=_blank
 12:20p NWSL/WSL Research Breakaway #4
 
 ### 12:30p Lunch
+
+Enjoy a selection of lunch options from [Local Foods](https://www.localfoodstexas.com/){target=_blank}
 
 ### 1:30p Afternoon Session 1
 
@@ -91,18 +100,24 @@ and [Pat Onstad](https://www.linkedin.com/in/pat-onstad-283aa978/){target=_blank
 
 ### 3:05p Afternoon Break
 
+Enjoy coffee, tea and pastries from [Common Bond](https://www.commonbondcafe.com/){target=_blank}
+
 ### 3:35p Afternoon Session 2
 
-3:35p
+3:35p NWSL/WSL Research Breakaway #7
+
+3:45p
 [Lydia Jackson](https://www.linkedin.com/in/lydia-j-676b0386/){target=_blank} (Machine Learning Engineer, Teamworks/Zelus)
 
-4:00p NWSL/WSL Research Breakaway #7
+4:10p NWSL/WSL Research Breakaway #8
 
-4:10p
-[Zayne M. Thomajan](https://www.linkedin.com/in/zaynematulisthom/){target=_blank} (Chief Soccer Officer, NJ/NY Gotham FC)
+*Closing Industry Keynote*\
+4:20p
+[Zayne M. Thomajan](https://www.linkedin.com/in/zaynematulisthom/){target=_blank} (General Manager, Chicago Fire FC)
 
-4:50p NWSL/WSL Research Breakaway #8
 
 ### 5:00p Live Podcast: *Expected Own Goals*
+
+5:40p Summit Concludes
 
 [![](assets/rice.png){width=500 fig-align="center"}](https://sport.rice.edu/sport-analytics-major){target="_blank"}
