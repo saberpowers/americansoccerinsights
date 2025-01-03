@@ -21,7 +21,7 @@ The ASI Summit is a soccer analytics conference that brings together researchers
 
 The 2025 ASI Summit, hosted by Rice University, will last a day and a half. We will begin on the afternoon of Friday, Jan 31, 2025, and run all day Saturday, Feb 1, 2025.
 
-**Registration is [open](registration.qmd) through January 24.**
+**Registration is [open](registration/index.qmd) through January 24.**
 
 The goals of the ASI Summit are:
 

@@ -1,59 +1,38 @@
 [
   {
-    "objectID": "location.html",
-    "href": "location.html",
-    "title": "Location",
+    "objectID": "call-for-proposals/index.html",
+    "href": "call-for-proposals/index.html",
+    "title": "Call for Proposals",
     "section": "",
-    "text": "The ASI Summit will be held at the Anderson-Clarke Center on the campus of Rice University."
+    "text": "The call for proposals is now closed for the 2025 American Soccer Insights Summit."
   },
   {
-    "objectID": "location.html#venue",
-    "href": "location.html#venue",
-    "title": "Location",
-    "section": "",
-    "text": "The ASI Summit will be held at the Anderson-Clarke Center on the campus of Rice University."
+    "objectID": "call-for-proposals/index.html#theme",
+    "href": "call-for-proposals/index.html#theme",
+    "title": "Call for Proposals",
+    "section": "Theme",
+    "text": "Theme\nSoccer is a sport of match-ups: how does one team match-up against another; how does an individual player match-up against an opponent player; how does one strategy match-up against another? The theme for this research contest is the open-ended concept of match-ups in soccer. All proposals should in some way address how a specific match-up in soccer can be analyzed using data. This may include touching on any of the following questions or any original questions dealing with match-ups:\n\nMethods to quantify individual player match-ups (ex. A winger against an opposing full-back)\nAnalyzing the efficiency of various formations or tactics against each other\nAnalyzing the efficiency of various pressing methods against different build-up approaches"
   },
   {
-    "objectID": "location.html#parking",
-    "href": "location.html#parking",
-    "title": "Location",
-    "section": "Parking",
-    "text": "Parking\nWe will have free parking available on site for ASI Summit attendees."
+    "objectID": "call-for-proposals/index.html#data",
+    "href": "call-for-proposals/index.html#data",
+    "title": "Call for Proposals",
+    "section": "Data",
+    "text": "Data\nThe dataset available to selected research proposals will comprise tracking and event data from SkillCorner covering the 2023 National Women’s Soccer League season (132 matches) and the 2023-24 English Women’s Super League season (132 matches).\nSkillCorner Game Intelligence combines and synchronises event and tracking data to create integrated physical, technical and tactical metrics, forming the world’s broadest and deepest football performance dataset for both on-ball and off-ball analysis:\nOn-ball: Understand passer tendencies and evaluate passing decisions\n\nLine breaking passes/opportunities\nDangerous/difficult passes\nExecution under different levels of pressure\n\nOn-ball: Identify players that create movement on-ball\n\nInitiate give and goes\nReceive backward and play forward\nPossession retention when under different levels of pressure\n\nOff-ball: Find players who support the ball carrier effectively\n\nOptions between lines, in space\nOff-ball runs broken down by type and threat\nOff-ball runs that lead to shot and/or goals\n\nOff-ball: Combine tactical and physical insights\n\nSpeeds, trajectory, angles for different types of movements\nSequences of off-ball runs to create threat"
   },
   {
-    "objectID": "location.html#hotels",
-    "href": "location.html#hotels",
-    "title": "Location",
-    "section": "Hotels",
-    "text": "Hotels\nWe have a limited number of rooms reserved in a block at the nearby DoubleTree in the Houston Medical Center, a 15-minute walk from the Anderson-Clarke Center. Book your stay at our discounted group rate using this link."
+    "objectID": "call-for-proposals/index.html#eligibility",
+    "href": "call-for-proposals/index.html#eligibility",
+    "title": "Call for Proposals",
+    "section": "Eligibility",
+    "text": "Eligibility\nWe have two tracks for submission: Undergraduate and Open.\nTo be eligible for an Undergraduate submission, the lead author of the proposal (who would present on stage at the Summit) must be an undergraduate student (high school is okay). We encourage collaborations, and the team need NOT be composed entirely of students. Each selected Undergraduate proposal will be paired with an academic or industry expert mentor to help them complete their proposed project.\nThere are no eligibility requirements for the Open track. We encourage collaborations. Only the lead author will be invited to present on stage at the Summit."
   },
   {
-    "objectID": "location.html#child-and-family-care",
-    "href": "location.html#child-and-family-care",
-    "title": "Location",
-    "section": "Child and Family Care",
-    "text": "Child and Family Care\nKids Garden (two miles from the DoubleTree in the Houston Medical Center) is a flexible learning center which offers drop-in childcare starting at $18/hour for non-members. Alternatively, Destination Sitters is an agency that offers prescreened, fully vetted childcare providers who travel to the customer’s hotel, starting at $32/hour."
-  },
-  {
-    "objectID": "registration.html",
-    "href": "registration.html",
-    "title": "Registration",
-    "section": "",
-    "text": "Early registration (through December 2): $180\nLate registration (after December 2): $200"
-  },
-  {
-    "objectID": "registration.html#regular-pricing",
-    "href": "registration.html#regular-pricing",
-    "title": "Registration",
-    "section": "",
-    "text": "Early registration (through December 2): $180\nLate registration (after December 2): $200"
-  },
-  {
-    "objectID": "registration.html#student-pricing-with-valid-student-id",
-    "href": "registration.html#student-pricing-with-valid-student-id",
-    "title": "Registration",
-    "section": "Student Pricing (with valid student ID)",
-    "text": "Student Pricing (with valid student ID)\nEarly registration (through December 2): $90\nLate registration (after December 2): $100\n\n Register"
+    "objectID": "call-for-proposals/index.html#review",
+    "href": "call-for-proposals/index.html#review",
+    "title": "Call for Proposals",
+    "section": "Review",
+    "text": "Review\nWe will begin reviewing proposals after the submission deadline and aim to release decisions by early December. Selected researchers are expected to complete their projects between early December and late January."
   },
   {
     "objectID": "index.html",
@@ -61,6 +40,90 @@
     "title": "American Soccer Insights Summit:\nBuilding Bridges for Research in Statistics",
     "section": "",
     "text": "The ASI Summit is a soccer analytics conference that brings together researchers and analysts from professional teams, media outlets and universities. The agenda strikes a balance between presentations from those doing private work and those doing public work, as well as students showcasing their projects.\nThe 2025 ASI Summit, hosted by Rice University, will last a day and a half. We will begin on the afternoon of Friday, Jan 31, 2025, and run all day Saturday, Feb 1, 2025.\nRegistration is open through January 24.\nThe goals of the ASI Summit are:\n\nto facilitate the exchange of ideas between leading thinkers in soccer analytics;\nto bring together MLS and NWSL analytics staffers for face-to-face interactions;\nto give students a platform on which to present their soccer analytics research;\nand to promote the work of women in soccer analytics."
+  },
+  {
+    "objectID": "location/index.html",
+    "href": "location/index.html",
+    "title": "Location",
+    "section": "",
+    "text": "The ASI Summit will be held at the Anderson-Clarke Center on the campus of Rice University."
+  },
+  {
+    "objectID": "location/index.html#venue",
+    "href": "location/index.html#venue",
+    "title": "Location",
+    "section": "",
+    "text": "The ASI Summit will be held at the Anderson-Clarke Center on the campus of Rice University."
+  },
+  {
+    "objectID": "location/index.html#parking",
+    "href": "location/index.html#parking",
+    "title": "Location",
+    "section": "Parking",
+    "text": "Parking\nWe will have free parking available on site for ASI Summit attendees."
+  },
+  {
+    "objectID": "location/index.html#hotels",
+    "href": "location/index.html#hotels",
+    "title": "Location",
+    "section": "Hotels",
+    "text": "Hotels\nWe have a limited number of rooms reserved in a block at the nearby DoubleTree in the Houston Medical Center, a 15-minute walk from the Anderson-Clarke Center. Book your stay at our discounted group rate using this link."
+  },
+  {
+    "objectID": "location/index.html#child-and-family-care",
+    "href": "location/index.html#child-and-family-care",
+    "title": "Location",
+    "section": "Child and Family Care",
+    "text": "Child and Family Care\nKids Garden (two miles from the DoubleTree in the Houston Medical Center) is a flexible learning center which offers drop-in childcare starting at $18/hour for non-members. Alternatively, Destination Sitters is an agency that offers prescreened, fully vetted childcare providers who travel to the customer’s hotel, starting at $32/hour."
+  },
+  {
+    "objectID": "schedule/reception/index.html",
+    "href": "schedule/reception/index.html",
+    "title": "Women in Soccer Analytics Networking Reception",
+    "section": "",
+    "text": "The Women in Soccer Analytics Networking Reception is an event to network with some of the leaders in soccer analytics and highlight the contributions of women in soccer analytics. All Summit participants are welcome.\nThe event will feature a casual women’s soccer team trivia contest (with prizes!) hosted by Jen Cooper (Rice ’90). Complimentary cocktails (named after women’s soccer superstars), wine and light bites will be served.\nCheck-in begins at 5:30p on January 31 in the Anderson-Clarke Center commons. RSVP is required by January 24.\nIf you missed the RSVP deadline, you may contact Summit organizers to inquire about last-minute availability."
+  },
+  {
+    "objectID": "registration/index.html",
+    "href": "registration/index.html",
+    "title": "Registration",
+    "section": "",
+    "text": "Early registration (through December 2): $180\nLate registration (after December 2): $200"
+  },
+  {
+    "objectID": "registration/index.html#regular-pricing",
+    "href": "registration/index.html#regular-pricing",
+    "title": "Registration",
+    "section": "",
+    "text": "Early registration (through December 2): $180\nLate registration (after December 2): $200"
+  },
+  {
+    "objectID": "registration/index.html#student-pricing-with-valid-student-id",
+    "href": "registration/index.html#student-pricing-with-valid-student-id",
+    "title": "Registration",
+    "section": "Student Pricing (with valid student ID)",
+    "text": "Student Pricing (with valid student ID)\nEarly registration (through December 2): $90\nLate registration (after December 2): $100\n\n Register"
+  },
+  {
+    "objectID": "schedule/index.html",
+    "href": "schedule/index.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Master of Ceremonies: Jen Cooper (Rice ’90)"
+  },
+  {
+    "objectID": "schedule/index.html#friday-january-31-2025",
+    "href": "schedule/index.html#friday-january-31-2025",
+    "title": "Schedule",
+    "section": "Friday, January 31, 2025",
+    "text": "Friday, January 31, 2025\n\n1:00p Registration\n\n\n2:00p Afternoon Session 1\n2:00p Summit Welcome\n2:15p Brian Greenwood and Tyler Richardett (American Soccer Analysis)\n2:40p Alejandro Dávila (Director of Analysis, Mazatlán FC)\n\n\n3:05p Afternoon Break\n\n\n3:35p Afternoon Session 2\n3:35p Michael Nanopoulous (Head of Analysis, SkillCorner)\n  Introduction to the NWSL/WSL Research Breakaways\n4:00p Kushal Gupta (Rice University & src | ftbl)\n4:15p Interactive Round Table Discussions\n5:00p Friday Content Concludes\n\n\n5:30p Networking Reception: Women in Soccer Analytics\nAll Summit participants are welcome. RSVP is required by January 24."
+  },
+  {
+    "objectID": "schedule/index.html#saturday-february-1-2025",
+    "href": "schedule/index.html#saturday-february-1-2025",
+    "title": "Schedule",
+    "section": "Saturday, February 1, 2025",
+    "text": "Saturday, February 1, 2025\n\n8:00a Breakfast and Registration\nEnjoy breakfast tacos from Black Walnut Cafe and coffee/tea from Common Bond\n\n\n9:00a Morning Sesssion 1\n9:00a Saturday Welcome\nOpening Industry Keynote\n9:10a Ethan Creagar and Pat Onstad (Data Scientist and General Manager, Houston Dynamo FC)\n9:50a NWSL/WSL Research Breakaway #1\n10:00a Arielle Dror (Director of Data & Analytics, Bay FC)\n10:25a NWSL/WSL Research Breakaway #2\n\n\n10:35a Morning Break\nEnjoy and coffee and tea from Common Bond\n\n\n11:05a Morning Session 2\nAcademic Keynote\n11:05a Stefan Szymanski (Professor of Sport Management, University of Michigan)\n11:45a NWSL/WSL Research Breakaway #3\n11:55a John Muller (Football writer, The Athletic, FiveThirtyEight, and more)\n  “Numbers talk — now make them tell a story”\n12:20p NWSL/WSL Research Breakaway #4\n\n\n12:30p Lunch\nEnjoy a selection of lunch options from Local Foods\n\n\n1:30p Afternoon Session 1\n1:30p Tianyu Guan (Assistant Professor of Statistics, York University)\n  “Soccer analytics using event data and tracking data”\n1:55p NWSL/WSL Research Breakaway #5\n2:05p Weining Shen (Associate Professor of Statistics, UC Irvine)\n  “Large language models in sports analytics”\n2:30p NWSL/WSL Research Breakaway #6\n2:40p Sachin Narayanan (Doctoral Candidate, Florida State University)\n  “Beyond the Expected: Tailoring analytics for women’s soccer”\n\n\n3:05p Afternoon Break\nEnjoy coffee, tea and pastries from Common Bond\n\n\n3:35p Afternoon Session 2\n3:35p NWSL/WSL Research Breakaway #7\n3:45p Lydia Jackson (Machine Learning Engineer, Teamworks/Zelus)\n4:10p NWSL/WSL Research Breakaway #8\nClosing Industry Keynote\n4:20p Zayne M. Thomajan (General Manager, Chicago Fire FC)\n\n\n5:00p Live Podcast: Expected Own Goals\n5:40p Summit Concludes"
   },
   {
     "objectID": "conduct/index.html",
@@ -119,101 +182,38 @@
     "text": "Code of Conduct Maintenance\nThis Code of Conduct is part of an ongoing effort to ensure that the Summit remains a safe, inclusive and productive event. It is subject to periodic review and updates to reflect the evolving needs of the community and Summit participants. While comprehensive, this document may not address every potential issue, and participants are encouraged to act in the spirit of these guidelines at all times."
   },
   {
-    "objectID": "schedule/index.html",
-    "href": "schedule/index.html",
-    "title": "Schedule",
-    "section": "",
-    "text": "Master of Ceremonies: Jen Cooper (Rice ’90)"
-  },
-  {
-    "objectID": "schedule/index.html#friday-january-31-2025",
-    "href": "schedule/index.html#friday-january-31-2025",
-    "title": "Schedule",
-    "section": "Friday, January 31, 2025",
-    "text": "Friday, January 31, 2025\n\n1:00p Registration\n\n\n2:00p Afternoon Session 1\n2:00p Summit Welcome\n2:15p Brian Greenwood and Tyler Richardett (American Soccer Analysis)\n2:40p Alejandro Dávila (Director of Analysis, Mazatlán FC)\n\n\n3:05p Afternoon Break\n\n\n3:35p Afternoon Session 2\n3:35p Michael Nanopoulous (Head of Analysis, SkillCorner)\n  Introduction to the NWSL/WSL Research Breakaways\n4:00p Kushal Gupta (Rice University & src | ftbl)\n4:15p Interactive Round Table Discussions\n5:00p Friday Content Concludes\n\n\n5:30p Networking Reception: Women in Soccer Analytics\nAll Summit participants are welcome. RSVP is required by January 24."
-  },
-  {
-    "objectID": "schedule/index.html#saturday-february-1-2025",
-    "href": "schedule/index.html#saturday-february-1-2025",
-    "title": "Schedule",
-    "section": "Saturday, February 1, 2025",
-    "text": "Saturday, February 1, 2025\n\n8:00a Breakfast and Registration\nEnjoy breakfast tacos from Black Walnut Cafe and coffee/tea from Common Bond\n\n\n9:00a Morning Sesssion 1\n9:00a Saturday Welcome\nOpening Industry Keynote\n9:10a Ethan Creagar and Pat Onstad (Data Scientist and General Manager, Houston Dynamo FC)\n9:50a NWSL/WSL Research Breakaway #1\n10:00a Arielle Dror (Director of Data & Analytics, Bay FC)\n10:25a NWSL/WSL Research Breakaway #2\n\n\n10:35a Morning Break\nEnjoy and coffee and tea from Common Bond\n\n\n11:05a Morning Session 2\nAcademic Keynote\n11:05a Stefan Szymanski (Professor of Sport Management, University of Michigan)\n11:45a NWSL/WSL Research Breakaway #3\n11:55a John Muller (Football writer, The Athletic, FiveThirtyEight, and more)\n  “Numbers talk — now make them tell a story”\n12:20p NWSL/WSL Research Breakaway #4\n\n\n12:30p Lunch\nEnjoy a selection of lunch options from Local Foods\n\n\n1:30p Afternoon Session 1\n1:30p Tianyu Guan (Assistant Professor of Statistics, York University)\n  “Soccer analytics using event data and tracking data”\n1:55p NWSL/WSL Research Breakaway #5\n2:05p Weining Shen (Associate Professor of Statistics, UC Irvine)\n  “Large language models in sports analytics”\n2:30p NWSL/WSL Research Breakaway #6\n2:40p Sachin Narayanan (Doctoral Candidate, Florida State University)\n  “Beyond the Expected: Tailoring analytics for women’s soccer”\n\n\n3:05p Afternoon Break\nEnjoy coffee, tea and pastries from Common Bond\n\n\n3:35p Afternoon Session 2\n3:35p NWSL/WSL Research Breakaway #7\n3:45p Lydia Jackson (Machine Learning Engineer, Teamworks/Zelus)\n4:10p NWSL/WSL Research Breakaway #8\nClosing Industry Keynote\n4:20p Zayne M. Thomajan (General Manager, Chicago Fire FC)\n\n\n5:00p Live Podcast: Expected Own Goals\n5:40p Summit Concludes"
-  },
-  {
-    "objectID": "schedule/reception/index.html",
-    "href": "schedule/reception/index.html",
-    "title": "Women in Soccer Analytics Networking Reception",
-    "section": "",
-    "text": "The Women in Soccer Analytics Networking Reception is an event to network with some of the leaders in soccer analytics and highlight the contributions of women in soccer analytics. All Summit participants are welcome.\nThe event will feature a casual women’s soccer team trivia contest (with prizes!) hosted by Jen Cooper (Rice ’90). Complimentary cocktails (named after women’s soccer superstars), wine and light bites will be served.\nCheck-in begins at 5:30p on January 31 in the Anderson-Clarke Center commons. RSVP is required by January 24.\nIf you missed the RSVP deadline, you may contact Summit organizers to inquire about last-minute availability."
-  },
-  {
-    "objectID": "sponsors.html",
-    "href": "sponsors.html",
-    "title": "Sponsors",
-    "section": "",
-    "text": "The ASI Summit is partially funded by a grant from the Office of Research at Rice.\nWe are seeking additional sponsors to keep registration costs accessible and to fund travel for deserving students. If you are interested in becoming a sponsor, please contact us at americansoccerinsights@gmail.com."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "about/index.html",
+    "href": "about/index.html",
     "title": "About",
     "section": "",
     "text": "Sam Gregory (US Soccer)\nRavi Ramineni (src | ftbl)\nSarah Rudd (src | ftbl)\nSeth Davidson (Rice University)\nZefa Tullis-Thompson (Rice University)\nRose Graves (Rice University)\nTom Stallings (Rice University)\nGuanyu Hu (UTHealth Houston)\nScott Powers (Rice University)"
   },
   {
-    "objectID": "about.html#organizers",
-    "href": "about.html#organizers",
+    "objectID": "about/index.html#organizers",
+    "href": "about/index.html#organizers",
     "title": "About",
     "section": "",
     "text": "Sam Gregory (US Soccer)\nRavi Ramineni (src | ftbl)\nSarah Rudd (src | ftbl)\nSeth Davidson (Rice University)\nZefa Tullis-Thompson (Rice University)\nRose Graves (Rice University)\nTom Stallings (Rice University)\nGuanyu Hu (UTHealth Houston)\nScott Powers (Rice University)"
   },
   {
-    "objectID": "about.html#contact",
-    "href": "about.html#contact",
+    "objectID": "about/index.html#contact",
+    "href": "about/index.html#contact",
     "title": "About",
     "section": "Contact",
     "text": "Contact\nEmail us at americansoccerinsights@gmail.com.\nSocial media:"
   },
   {
-    "objectID": "about.html#subscribe",
-    "href": "about.html#subscribe",
+    "objectID": "about/index.html#subscribe",
+    "href": "about/index.html#subscribe",
     "title": "About",
     "section": "\nSubscribe\n",
     "text": "Subscribe\n\n\nSubmit your information below to subscribe to email updates about the Summit.\n\n\n\n\n\n\n\n\n* indicates required\n\n\nEmail Address *\n\n\nFirst Name (optional) \n\n\nLast Name (optional) \n\n\nAffiliation (optional) e.g. Employer or Organization or School\n\n\nOccupation (optional) Industry ProfessionalWriter/JournalistAcademicStudentPlayerCoachOtherWhat best describes your relationship to soccer?\n\n\n\n\n\n\n\n\n\n\n/* real people should not fill this in and expect good things - do not remove this or risk form bot signups */"
   },
   {
-    "objectID": "call-for-proposals.html",
-    "href": "call-for-proposals.html",
-    "title": "Call for Proposals",
+    "objectID": "sponsors/index.html",
+    "href": "sponsors/index.html",
+    "title": "Sponsors",
     "section": "",
-    "text": "The call for proposals is now closed for the 2025 American Soccer Insights Summit."
-  },
-  {
-    "objectID": "call-for-proposals.html#theme",
-    "href": "call-for-proposals.html#theme",
-    "title": "Call for Proposals",
-    "section": "Theme",
-    "text": "Theme\nSoccer is a sport of match-ups: how does one team match-up against another; how does an individual player match-up against an opponent player; how does one strategy match-up against another? The theme for this research contest is the open-ended concept of match-ups in soccer. All proposals should in some way address how a specific match-up in soccer can be analyzed using data. This may include touching on any of the following questions or any original questions dealing with match-ups:\n\nMethods to quantify individual player match-ups (ex. A winger against an opposing full-back)\nAnalyzing the efficiency of various formations or tactics against each other\nAnalyzing the efficiency of various pressing methods against different build-up approaches"
-  },
-  {
-    "objectID": "call-for-proposals.html#data",
-    "href": "call-for-proposals.html#data",
-    "title": "Call for Proposals",
-    "section": "Data",
-    "text": "Data\nThe dataset available to selected research proposals will comprise tracking and event data from SkillCorner covering the 2023 National Women’s Soccer League season (132 matches) and the 2023-24 English Women’s Super League season (132 matches).\nSkillCorner Game Intelligence combines and synchronises event and tracking data to create integrated physical, technical and tactical metrics, forming the world’s broadest and deepest football performance dataset for both on-ball and off-ball analysis:\nOn-ball: Understand passer tendencies and evaluate passing decisions\n\nLine breaking passes/opportunities\nDangerous/difficult passes\nExecution under different levels of pressure\n\nOn-ball: Identify players that create movement on-ball\n\nInitiate give and goes\nReceive backward and play forward\nPossession retention when under different levels of pressure\n\nOff-ball: Find players who support the ball carrier effectively\n\nOptions between lines, in space\nOff-ball runs broken down by type and threat\nOff-ball runs that lead to shot and/or goals\n\nOff-ball: Combine tactical and physical insights\n\nSpeeds, trajectory, angles for different types of movements\nSequences of off-ball runs to create threat"
-  },
-  {
-    "objectID": "call-for-proposals.html#eligibility",
-    "href": "call-for-proposals.html#eligibility",
-    "title": "Call for Proposals",
-    "section": "Eligibility",
-    "text": "Eligibility\nWe have two tracks for submission: Undergraduate and Open.\nTo be eligible for an Undergraduate submission, the lead author of the proposal (who would present on stage at the Summit) must be an undergraduate student (high school is okay). We encourage collaborations, and the team need NOT be composed entirely of students. Each selected Undergraduate proposal will be paired with an academic or industry expert mentor to help them complete their proposed project.\nThere are no eligibility requirements for the Open track. We encourage collaborations. Only the lead author will be invited to present on stage at the Summit."
-  },
-  {
-    "objectID": "call-for-proposals.html#review",
-    "href": "call-for-proposals.html#review",
-    "title": "Call for Proposals",
-    "section": "Review",
-    "text": "Review\nWe will begin reviewing proposals after the submission deadline and aim to release decisions by early December. Selected researchers are expected to complete their projects between early December and late January."
+    "text": "The ASI Summit is partially funded by a grant from the Office of Research at Rice.\nWe are seeking additional sponsors to keep registration costs accessible and to fund travel for deserving students. If you are interested in becoming a sponsor, please contact us at americansoccerinsights@gmail.com."
   }
 ]

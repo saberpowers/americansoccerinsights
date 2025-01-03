@@ -20,4 +20,4 @@ Late registration (after December 2): $100
   </a>
 </div>
 
-[![](assets/rice.png){width=500 fig-align="center"}](https://sport.rice.edu/sport-analytics-major){target="_blank"}
+[![](../assets/rice.png){width=500 fig-align="center"}](https://sport.rice.edu/sport-analytics-major){target="_blank"}
