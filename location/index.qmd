@@ -18,4 +18,4 @@ We have a limited number of rooms reserved in a block at the nearby [DoubleTree 
 
 [Kids Garden](https://kidsplaygarden.com/houston){target=_blank} (two miles from the DoubleTree in the Houston Medical Center) is a flexible learning center which offers drop-in childcare starting at $18/hour for non-members. Alternatively, [Destination Sitters](https://www.destinationsitters.com/){target=_blank} is an agency that offers prescreened, fully vetted childcare providers who travel to the customer's hotel, starting at $32/hour.
 
-[![](assets/rice.png){width=500 fig-align="center"}](https://sport.rice.edu/sport-analytics-major){target="_blank"}
+[![](../assets/rice.png){width=500 fig-align="center"}](https://sport.rice.edu/sport-analytics-major){target="_blank"}
