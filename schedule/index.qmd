@@ -31,7 +31,6 @@ Introduction to the NWSL/WSL Research Breakaways
 
 4:00p
 [Kushal Gupta](https://www.linkedin.com/in/kushalgupta0206/){target=_blank} (Rice University & src | ftbl)\
-&emsp; "Leading Rice Soccer Analytics"
 
 4:15p Interactive Round Table Discussions
 
@@ -125,8 +124,10 @@ Enjoy coffee, tea and pastries from [Common Bond](https://www.commonbondcafe.com
 [Zayne M. Thomajan](https://www.linkedin.com/in/zaynematulisthom/){target=_blank} (General Manager, Chicago Fire FC)
 
 
-### 5:00p Live Podcast: *Expected Own Goals*
+### 5:00p *Expected Own Goals* Live Podcast
 
 5:40p Summit Concludes
+
+*Disclaimer: Schedule is subject to change*
 
 [![](../assets/rice.png){width=500 fig-align="center"}](https://sport.rice.edu/sport-analytics-major){target="_blank"}
