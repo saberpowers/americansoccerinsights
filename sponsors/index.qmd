@@ -2,6 +2,14 @@
 title: "Sponsors"
 ---
 
-The ASI Summit is partially funded by a grant from the [Office of Research](https://research.rice.edu/) at Rice.
+If you are interested in becoming a sponsor, please contact us at [americansoccerinsights@gmail.com](mailto:americansoccerinsights@gmail.com).
 
-We are seeking additional sponsors to keep registration costs accessible and to fund travel for deserving students. If you are interested in becoming a sponsor, please contact us at [americansoccerinsights@gmail.com](mailto:americansoccerinsights@gmail.com).
+The Summit is primarily funded by a grant from the [Office of Research](https://research.rice.edu/){target=_blank} at Rice and by a gift from a private donor. We are grateful for the support from our partners listed below.
+
+::: {layout="[[-4,44,-4,44,-4]]" layout-valign="center"}
+[![](../assets/skillcorner.png)](https://skillcorner.com/){target="_blank"}
+
+[![](../assets/kenkennedy.png)](https://kenkennedy.rice.edu/){target="_blank"}
+:::
+
+We thank [Reata Cellars](https://reatacellars.com/){target=_blank} for donating wine for the [Women in Soccer Analytics Networking Reception](../schedule/reception/).
