@@ -16,7 +16,7 @@ Master of Ceremonies: [Jen Cooper](https://www.houstondynamofc.com/houstondash/n
 2:15p
 [Brian Greenwood](https://www.linkedin.com/in/bgrnwd/){target=_blank}
 and [Tyler Richardett](https://www.linkedin.com/in/tylerrichardett/){target=_blank} (American Soccer Analysis)\
-&emsp; "Building a Soccer Club's Data Operation from the Ground Up"
+&emsp; "Building an Analytics Operation: Lessons Learned Through an Oral History of American Soccer Analysis"
 
 2:40p
 [Alejandro D&aacute;vila](https://www.linkedin.com/in/alejandro-a-d%C3%A1vila-v-3823a0100/){target=_blank} (Director of Analysis, Mazatl&aacute;n FC)\
