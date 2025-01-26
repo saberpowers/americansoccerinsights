@@ -2,22 +2,6 @@
 title: "Registration"
 ---
 
-## Regular Pricing
-
-Early registration (through December 2): $180
-
-Late registration (after December 2): $200
-
-## Student Pricing (with valid student ID)
-
-Early registration (through December 2): $90
-
-Late registration (after December 2): $100
-
-<div style="text-align: center">
-  <a href="https://www.ticketleap.events/tickets/americansoccerinsights/2025" target="_blank" id="btn-constructor" rel="noreferrer" style="background-color: #077457; border: 1px solid #077457; border-radius: 22.5rem; color: rgb(255, 255, 255); cursor: pointer; display: inline-block; font-size: 1.2rem; font-weight: 400; line-height: 1.5; min-width: 200px; padding: 11px 20px; text-align: center; text-decoration: none; text-wrap: nowrap; transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out; user-select: none; vertical-align: middle;">
-    <span>Register</span>
-  </a>
-</div>
+Registration is closed.
 
 [![](../assets/rice.png){width=500 fig-align="center"}](https://sport.rice.edu/sport-analytics-major){target="_blank"}
