@@ -24,11 +24,14 @@ and [Tyler Richardett](https://www.linkedin.com/in/tylerrichardett/){target=_bla
 
 ### 3:05p Afternoon Break
 
+Enjoy and coffee and tea from [Common Bond](https://www.commonbondcafe.com/){target=_blank}
+
 ### 3:35p Afternoon Session 2
 
-*Presented by SkillCorner*\
 3:35p
-Introduction to the NWSL/WSL Research Breakaways
+[Hayden Van Brewer](https://www.linkedin.com/in/hayden-van-brewer/){target=_blank}
+and [Matt Cohen](https://www.linkedin.com/in/mattcohenskillcorner/){target=_blank} (SkillCorner)\
+&emsp; "Yes, But *WHEN* Do They Run? An Investigation of Off-Ball Runs and Phases of Play"
 
 4:00p
 [Kushal Gupta](https://www.linkedin.com/in/kushalgupta0206/){target=_blank} (Rice University & src | ftbl)\
@@ -58,13 +61,14 @@ and [Pat Onstad](https://www.linkedin.com/in/pat-onstad-283aa978/){target=_blank
 (Data Scientist and General Manager, Houston Dynamo FC)\
 &emsp; "Bridging Insights and Decisions in Soccer Operations"
 
-9:50a NWSL/WSL Research Breakaway #1
+9:50a Lucas Kimball (Atl&eacute;tico Clube de Portugal)
 
 10:00a
 [Arielle Dror](https://www.linkedin.com/in/arielledror/){target=_blank} (Director of Data & Analytics, Bay FC)\
 &emsp; "Speedrunning an Analytics Department in 50 Days"
 
-10:25a NWSL/WSL Research Breakaway #2
+10:25a Lori He\
+&emsp; "Evaluating the Wide Attack"
 
 ### 10:35a Morning Break
 
@@ -76,13 +80,15 @@ Enjoy and coffee and tea from [Common Bond](https://www.commonbondcafe.com/){tar
 11:05a [Stefan Szymanski](https://www.kines.umich.edu/directory/stefan-szymanski){target=_blank} (Professor of Sport Management, University of Michigan)\
 &emsp; "Soccer Analytics: Science or Alchemy"
 
-11:45a NWSL/WSL Research Breakaway #3
+11:45a Sebastian Bush, Theo Schmidt, Caleb Heller, Nick Rovelli (Syracuse University)\
+&emsp; "Dual Dependency: Analyzing the Winger and Wingback Relationship"
 
 11:55a
 [John Muller](https://johnspacemuller.com/){target=_blank} (Football writer, The Athletic, FiveThirtyEight, and more)\
 &emsp; "Numbers Talk — Now Make Them Tell a Story"
 
-12:20p NWSL/WSL Research Breakaway #4
+12:20p Joseph Sosa, James Zhong, Trey Hibbard (Auburn University)\
+&emsp; "Quantifying Midfielders Efficiency"
 
 ### 12:30p Lunch
 
@@ -94,13 +100,15 @@ Enjoy a selection of lunch options from [Local Foods](https://www.localfoodstexa
 [Tianyu Guan](https://tianyuguan.github.io/){target=_blank} (Assistant Professor of Statistics, York University)\
 &emsp; "Soccer Analytics Using Event Data and Tracking Data"
 
-1:55p NWSL/WSL Research Breakaway #5
+1:55p Ben Thorpe (Yale University), Adam Cohen (Duke University)\
+&emsp; "Hold the Line: Strategic Insights into High Line Defense in Professional Women's Soccer"
 
 2:05p
 [Weining Shen](https://faculty.sites.uci.edu/weinings/){target=_blank} (Associate Professor of Statistics, UC Irvine)\
 &emsp; "Large Language Models in Sports Analytics"
 
-2:30p NWSL/WSL Research Breakaway #6
+2:30p Rob Oakley (Temple University)\
+&emsp; "1v1 Defending Beyond Tackles and Interceptions"
 
 2:40p
 [Sachin Narayanan](https://www.linkedin.com/in/sachin-devnathan-narayanan-924220155/){target=_blank} (Doctoral Candidate, Florida State University)\
@@ -112,13 +120,12 @@ Enjoy coffee, tea and pastries from [Common Bond](https://www.commonbondcafe.com
 
 ### 3:35p Afternoon Session 2
 
-3:35p NWSL/WSL Research Breakaway #7
-
 3:45p
 [Lydia Jackson](https://www.linkedin.com/in/lydia-j-676b0386/){target=_blank} (Machine Learning Engineer, Teamworks/Zelus)\
 &emsp; "Building Shiny Apps for Rapid Prototyping"
 
-4:10p NWSL/WSL Research Breakaway #8
+4:10p Alvaro Botto Barilli, Jonathan Hamil (University of Texas)\
+&emsp; "The Role of Athleticism in Defensive Transition Match-ups"
 
 *Closing Industry Keynote*\
 4:20p
