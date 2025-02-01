@@ -80,7 +80,7 @@ Enjoy and coffee and tea from [Common Bond](https://www.commonbondcafe.com/){tar
 
 *Academic Keynote*\
 11:05a [Stefan Szymanski](https://www.kines.umich.edu/directory/stefan-szymanski){target=_blank} (Professor of Sport Management, University of Michigan)\
-&emsp; "Soccer Analytics: Science or Alchemy"
+&emsp; "Soccer Analytics: Science or Alchemy" [code/data](../assets/szymanski.zip)
 
 11:45a Sebastian Bush, Theo Schmidt, Caleb Heller, Nick Rovelli (Syracuse University)\
 &emsp; "Dual Dependency: Analyzing the Winger and Wingback Relationship"
