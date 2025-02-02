@@ -17,11 +17,10 @@ about:
       target: _blank
 ---
 
+[The future of soccer is data-driven: American Soccer Insights Summit shows what numbers can do](https://verdeallday.com/american-soccer-insights-summit-report-rice-university/){target=_blank}\
+Phil West, *Verde All Day*
+
 The ASI Summit is a soccer analytics conference that brings together researchers and analysts from professional teams, media outlets and universities. The agenda strikes a balance between presentations from those doing private work and those doing public work, as well as students showcasing their projects.
-
-The 2025 ASI Summit, hosted by Rice University, will last a day and a half. We will begin on the afternoon of Friday, Jan 31, 2025, and run all day Saturday, Feb 1, 2025.
-
-**Registration is closed.**
 
 The goals of the ASI Summit are:
 
@@ -30,4 +29,4 @@ The goals of the ASI Summit are:
 3. to give students a platform on which to present their soccer analytics research;
 4. and to promote the work of women in soccer analytics.
 
-[![](assets/rice.png){width=500 fig-align="center"}](https://sport.rice.edu/sport-analytics-major){target="_blank"}
+[![](assets/rice.png){width=500 fig-align="center"}](https://sport.rice.edu/sport-analytics-major){target=_blank}
