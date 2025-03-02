@@ -9,13 +9,12 @@ about:
     - text: "{{< iconify simple-icons linkedin >}}"
       href: https://www.linkedin.com/company/americansoccerinsights/
       target: _blank
-    - text: "{{< iconify simple-icons x >}}"
-      href: https://x.com/RiceASISummit/
-      target: _blank
-    - text: "{{< iconify simple-icons instagram >}}"
-      href: https://www.instagram.com/americansoccerinsights/
+    - text: "{{< iconify simple-icons youtube >}}"
+      href: http://www.youtube.com/@ASISummit
       target: _blank
 ---
+
+{{< video https://www.youtube.com/watch?v=-eERwaUDoKQ >}}
 
 [The future of soccer is data-driven: American Soccer Insights Summit shows what numbers can do](https://verdeallday.com/american-soccer-insights-summit-report-rice-university/){target=_blank}\
 Phil West, *Verde All Day*
