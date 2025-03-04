@@ -31,9 +31,7 @@ Social media:
 &ensp;
 [{{< iconify simple-icons linkedin >}}](https://www.linkedin.com/company/americansoccerinsights/){target="_blank"}
 &ensp;
-[{{< iconify simple-icons x >}}](https://x.com/RiceASISummit/){target="_blank"}
-&ensp;
-[{{< iconify simple-icons instagram >}}](https://www.instagram.com/americansoccerinsights/){target="_blank"}
+[{{< iconify simple-icons youtube >}}](https://www.youtube.com/@ASISummit/){target="_blank"}
 
 ## FAQ
 
