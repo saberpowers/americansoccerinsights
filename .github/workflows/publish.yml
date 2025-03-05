@@ -1,7 +1,7 @@
 on:
   workflow_dispatch:
   push:
-    branches: sp/quarto-action
+    branches: main
 
 name: Quarto Publish
 
