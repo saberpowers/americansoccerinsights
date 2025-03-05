@@ -1,7 +1,5 @@
 ---
-title: |
-  | American Soccer Insights Summit:
-  | Building Bridges for Research in Statistics
+title: American Soccer Insights Summit
 image: assets/logo.png
 about:
   template: jolla
