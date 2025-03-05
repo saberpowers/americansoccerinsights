@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 0252bd0f-cd29-4bd7-a004-51a93b964406
+      url: 'https://americansoccerinsights.com'
