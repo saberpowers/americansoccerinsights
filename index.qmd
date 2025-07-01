@@ -4,23 +4,20 @@ image: assets/logo.png
 about:
   template: jolla
   links:
+    - text: "{{< iconify simple-icons bluesky >}}"
+      href: https://bsky.app/profile/americansoccerinsights.com
+      target: _blank
     - text: "{{< iconify simple-icons linkedin >}}"
-      href: https://www.linkedin.com/company/americansoccerinsights/
+      href: https://www.linkedin.com/company/americansoccerinsights
       target: _blank
     - text: "{{< iconify simple-icons youtube >}}"
       href: http://www.youtube.com/@ASISummit
       target: _blank
 ---
 
-{{< video https://www.youtube.com/watch?v=-eERwaUDoKQ >}}
-
-[A day at the American Soccer Insights Summit: The latest and greatest in soccer analytics](https://www.americansocceranalysis.com/home/2025/3/3/a-day-at-the-american-soccer-insights-summit-the-latest-and-greatest-in-soccer-analytics){target=_blank}\
-Akshay Easwaran, *American Soccer Analysis*
-
-[The future of soccer is data-driven: American Soccer Insights Summit shows what numbers can do](https://verdeallday.com/american-soccer-insights-summit-report-rice-university/){target=_blank}\
-Phil West, *Verde All Day*
-
 The ASI Summit at Rice University is a soccer analytics conference that brings together researchers and analysts from professional teams, media outlets and universities. The agenda strikes a balance between presentations from those doing private work and those doing public work, as well as students showcasing their projects.
+
+**The 2026 Summit will begin on the afternoon of Friday, January 30, and run all day Saturday, January 31.**
 
 The goals of the ASI Summit are:
 
