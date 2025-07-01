@@ -7,13 +7,14 @@ website:
   search: false
   navbar:
     right:
-      - text: Conduct
-        href: conduct/index.qmd
       - location/index.qmd
+      - registration/index.qmd
       - schedule/index.qmd
       - sponsors/index.qmd
       - about/index.qmd
-
+      - text: Archive
+        menu:
+          - archive/2025/index.qmd
 format:
   html:
     theme:
