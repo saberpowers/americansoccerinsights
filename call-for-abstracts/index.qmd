@@ -1,0 +1,27 @@
+---
+title: "Call for Abstracts"
+---
+
+::: {.callout-tip appearance="simple"}
+## There are two ways you can apply to present at the Summit
+- The Call for Abstracts (due Oct 1) is for if you have something you want to present and you do not need our data.
+- If you have an idea for a research project and you need our data to do it, see the [Call for Proposals](../call-for-proposals) (due Sep 1).
+:::
+
+We’re looking for talks that show how data---especially statistics and machine learning---can unlock insights to help players and teams perform their best on the field.
+
+## What We'd Love to See
+
+For academic presenters, we will give preference to those whose presentation topic is already published or available as a pre-print so that we can see the details of what you want to present (but don't let that discourage you from submitting if you don't have that yet!). For potential presenters who work at soccer clubs, we understand that you generally can't share the details of your work publicly, so we are more open to a high-level description of your topic. For those representing third-party data or analytics providers, we want to focus to be on making your research findings publicly available, not advertising your product.
+
+## Submission
+
+Please submit your abstract as a PDF document (max 1 page, max 10 MB) [here](https://forms.gle/yA2nSEPWVdztaah1A){target=_blank}.
+
+The deadline for submission is 11:59 p.m. CT on Wednesday, October 1, 2025.
+
+## Review
+
+We will begin reviewing proposals after the submission deadline and aim to release decisions by late October. 
+
+[![](../assets/rice.png){width=500 fig-align="center"}](https://sport.rice.edu/sport-analytics-major){target="_blank"}
