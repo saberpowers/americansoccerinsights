@@ -2,12 +2,6 @@
 title: "Call for Abstracts"
 ---
 
-::: {.callout-tip appearance="simple"}
-## There are two ways you can apply to present at the Summit
-- The Call for Abstracts (due Oct 1) is for if you have something you want to present and you do not need our data.
-- If you have an idea for a research project and you need our data to do it, see the [Call for Proposals](../call-for-proposals) (due Sep 1).
-:::
-
 We’re looking for talks that show how data---especially statistics and machine learning---can unlock insights to help players and teams perform their best on the field.
 
 ## What We'd Love to See
