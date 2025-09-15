@@ -19,14 +19,12 @@ The ASI Summit at Rice University is a soccer analytics conference that brings t
 
 The 2026 Summit will begin on the afternoon of Friday, January 30, and run all day Saturday, January 31.
 
-**Our [call for proposals](call-for-proposals) is open until September 1.**
-
 **Our [call for abstracts](call-for-abstracts) is open until October 1.**
 
 The goals of the ASI Summit are:
 
 1. to facilitate the exchange of ideas between leading thinkers in soccer analytics;
-2. to bring together MLS and NWSL analytics staffers for face-to-face interactions;
+2. to build networks between analytics staffers from pro clubs across the Americas;
 3. to give students a platform on which to present their soccer analytics research;
 4. and to promote the work of women in soccer analytics.
 

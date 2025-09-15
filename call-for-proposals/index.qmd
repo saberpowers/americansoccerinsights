@@ -2,12 +2,6 @@
 title: "Call for Proposals"
 ---
 
-::: {.callout-tip appearance="simple"}
-## There are two ways you can apply to present at the Summit
-- The Call for Proposals (due Sep 1) is for if you have an idea for a research project and you need our data to do it.
-- If you have something you want to present and you do not need our data, see the [Call for Abstracts](../call-for-abstracts) (due Oct 1).
-:::
-
 Do you have a cool idea for a research project that you could tackle, if only you had access to some good data? Here is your opportunity! In partnership with [SkillCorner](https://www.skillcorner.com){target="_blank"}, we are excited to offer women's soccer tracking data to support the researchers who send us the best proposals. Selected researchers will receive data to complete their proposed projects and submit research papers. The authors of the best papers will receive invitations to give brief presentations on stage at the Summit.
 
 ## Theme
