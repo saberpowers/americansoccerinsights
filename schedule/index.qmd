@@ -7,6 +7,14 @@ Friday, January 30, 2026 1:00p--5:00p
 
 Saturday, January 31, 2026 8:00a--5:00p
 
-*Disclaimer: Schedule is subject to change*
+## Speakers
+
+*We will update this list as we continue to confirm speakers in the months leading up to the Summit.*
+
+*Academic Keynote*\
+[Tim Swartz](https://www.sfu.ca/~tswartz/){target=_blank} (Professor of Statistics & Actuarial Science, Simon Fraser University)
+
+*Industry Keynote*\
+[Carlos Vela](https://www.linkedin.com/in/carlos-vela-abba36228/){target=_blank} (Sporting Director, LD Alajuelense)
 
 [![](../assets/rice.png){width=500 fig-align="center"}](https://sport.rice.edu/sport-analytics-major){target="_blank"}
