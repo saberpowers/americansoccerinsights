@@ -2,11 +2,11 @@
 title: "Call for Abstracts"
 ---
 
-We’re looking for talks that show how data---especially statistics and machine learning---can unlock insights to help players and teams perform their best on the field.
+We're looking for talks that show how data---especially statistics and machine learning---can unlock insights to help players and teams perform their best on the field.
 
 ## What We'd Love to See
 
-For academic presenters, we will give preference to those whose presentation topic is already published or available as a pre-print so that we can see the details of what you want to present (but don't let that discourage you from submitting if you don't have that yet!). For potential presenters who work at soccer clubs, we understand that you generally can't share the details of your work publicly, so we are more open to a high-level description of your topic. For those representing third-party data or analytics providers, we want to focus to be on making your research findings publicly available, not advertising your product.
+For academic presenters, we will give preference to those whose presentation topic is already published or available as a pre-print so that we can see the details of what you want to present (but don't let that discourage you from submitting if you don't have that yet!). For potential presenters who work at soccer clubs, we understand that you generally can't share the details of your work publicly, so we are more open to a high-level description of your topic. For those representing third-party data or analytics providers, we want the focus to be on making your research findings publicly available, not advertising your product.
 
 ## Submission
 
