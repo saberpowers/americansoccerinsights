@@ -3,28 +3,133 @@ title: "Schedule"
 toc: true
 ---
 
-Friday, January 30, 2026 1:00p--5:00p
+Emcee: [Jen Cooper](https://www.houstondynamofc.com/houstondash/news/the-keeper-jen-cooper-s-journey-through-soccer-30486){target=_blank} (Rice '90)
 
-Saturday, January 31, 2026 8:00a--5:00p
+## Friday, January 30, 2026
 
-## Speakers
+Location: [Kraft Hall](https://maps.app.goo.gl/9buzJ7ruXKUvGJn36){target=_blank}
 
-*We will update this list as we continue to confirm speakers in the months leading up to the Summit.*
+### 12:00p Registration
 
-*Academic Keynote*\
-[Tim Swartz](https://www.sfu.ca/~tswartz/){target=_blank} (Professor of Statistics & Actuarial Science, Simon Fraser University)
+### 1:00p Afternoon Session 1
+
+1:00p Summit Welcome
 
 *Industry Keynote*\
+1:10p
 [Carlos Vela](https://www.linkedin.com/in/carlos-vela-abba36228/){target=_blank} (Sporting Director, LD Alajuelense)
 
-[Albert Cohen](https://www.linkedin.com/in/albert-cohen-3424b325/){target=_blank} (Director of Actuarial Science Program, Michigan State University)
+1:50p
+[Hayden Van Brewer](https://www.linkedin.com/in/hayden-van-brewer/){target=_blank}
+and [Matt Cohen](https://www.linkedin.com/in/mattcohenskillcorner/){target=_blank} (SkillCorner)\
 
-[Susana Ferreras](https://www.linkedin.com/in/susanaferreras/){target=_blank} (Data Analytics Lead, Arsenal FC)
+2:15p Interactive Round Table Discussions #1
 
+### 3:00p Afternoon Break
+
+### 3:30p Afternoon Session 2
+
+3:30p
+[Oliver Miller-Farrell](https://www.linkedin.com/in/olivermillerfarrell/){target=_blank} (Assistant General Manager, Nashville SC)
+
+3:55p Andrew Bates (Teamworks)
+
+4:20 Interactive Round Table Discussions #2, presented by [Teamworks](https://teamworks.com/){target=_blank}
+
+5:05 US Soccer Panel, featuring\
+&emsp; [Vicky Jepson](https://www.linkedin.com/in/vicky-jepson-86271059/){target=_blank},
+[Kaleb Parker](https://www.linkedin.com/in/kalebmparker/){target=_blank},
+[Natasha Patel](https://www.linkedin.com/in/natasha-patel-2aa4bb27/){target=_blank}, &
+[Sam Gregory](https://www.samgregory.me/){target=_blank} (Moderator)
+
+5:50p Friday Content Concludes
+
+### 6:00p Networking Reception: Women in Soccer Analytics
+
+All Summit participants are welcome. RSVP is required by January 24.
+
+## Saturday, January 31, 2026
+
+Location: [Duncan Hall](https://maps.app.goo.gl/wSc3XZSS5vgfiXdM9){target="_blank"}
+
+### 8:00a Breakfast and Registration
+
+Enjoy breakfast tacos from [Black Walnut Cafe](https://www.blackwalnutcafe.com/){target=_blank} and coffee/tea from [Common Bond](https://www.commonbondcafe.com/){target=_blank}
+
+### 9:00a Morning Sesssion 1
+
+9:00a Saturday Welcome
+
+*Academic Keynote*\
+9:10a
+[Tim Swartz](https://www.sfu.ca/~tswartz/){target=_blank} (Professor of Statistics & Actuarial Science, Simon Fraser University)
+
+9:50p Interactive Round Table Discussions #3
+
+### 10:35a Morning Break
+
+Enjoy and coffee and tea from [Common Bond](https://www.commonbondcafe.com/){target=_blank}
+
+### 11:05a Morning Session 2
+
+11:05a
 [Debashis Mondal](https://sites.wustl.edu/debashismondal/home/home/){target=_blank} (Associate Professor of Statistics & Data Science, Washington University)
 
+11:30a Maddalena Torricelli and Brennan Klein (Northeastern University)\
+&emsp; "The Team Support Network: Quantifying Off-Ball Impact in Women's Elite Soccer through Tracking Data"
+
+11:40a *Presentation Pending Confirmation*
+
+12:05p Meredith Shea, Miles Sondergaard Jensen, Gaku Aihara (Vassar College)\
+&emsp; "Off-Ball Run Value: Quantifying the Quality of Off-Ball Runs"
+
+12:15p
+[Kendall Thomas](https://www.linkedin.com/in/kendall-thomas-5bb903114/){target=_blank} (Doctoral Candidate, University of North Carolina at Chapel Hill)
+
+### 12:40p Lunch
+
+Enjoy a selection of lunch options from [Local Foods](https://www.localfoodstexas.com/){target=_blank}
+
+### 1:40p Afternoon Session 1
+
+1:40p
 [Devin Pleuler](https://www.linkedin.com/in/dpleuler/){target=_blank} (Sr Director of Research & Development, Maple Leaf Sports & Entertainment)
 
-[Kendall Thomas](https://www.linkedin.com/in/kendall-thomas-5bb903114/){target=_blank} (Doctoral Candidate, University of North Carolina at Chapel Hill)
+2:05p Lou Zhou (Rice University)\
+&emsp; "GPS: A Metric for Evaluating Goalkeeper Positioning"
+
+2:15p Maddalena Torricelli (Northeastern University)\
+&emsp; "Harder, Shorter, Sharper, Forward: A Comparison of Women's and Men's Elite Football Gameplay"
+
+2:35p David Almona (Centre College), Natalie Rayce (Carnegie Mellon University)\
+&emsp; "Forced Turnover: Evaluating Pressing Effectiveness in Soccer"
+
+2:45p Adebisi Akinyemi, Dillon Stewart, Lennie Waite (HITE EQ)\
+&emsp; "Which Athletes are 'Mentality Monsters'?: Clustering Athletes by their Psychological Attributes"
+
+### 3:05p Afternoon Break
+
+Enjoy and coffee and tea from [Common Bond](https://www.commonbondcafe.com/){target=_blank}
+
+### 3:35p Afternoon Session 2
+
+3:35p
+[Susana Ferreras](https://www.linkedin.com/in/susanaferreras/){target=_blank} (Data Analytics Lead, Arsenal FC)
+
+4:00p John Daniels, Isaac Araoz, Tzu-Ying Chen (Auburn University)\
+&emsp; "Optimal Defensive Movement Against Counterattacks"
+
+4:10p Daniel Castro, Colin Scifert, Jan-Anders Mansson (Purdue University)\
+&emsp; "Adversity Flags in Soccer Based on Individual Spatial Ownership and Pressure Received"
+
+4:30p Adam Endress (Oregon State University)\
+&emsp; "Valuing the Effect of Off-Ball Runs in Increasing Dribble Success"
+
+4:40p Jonathan Pipping, Tianshu Feng, Paul Sabin (University of Pennsylvania)\
+&emsp; "Beyond Expected Goals: A Probabilistic Framework for Shot Occurrences in Soccer"
+
+### 5:00p *Expected Own Goals* Live Podcast
+
+5:40p Summit Concludes
 
 [![](../assets/rice.png){width=500 fig-align="center"}](https://sport.rice.edu/sport-analytics-major){target="_blank"}
