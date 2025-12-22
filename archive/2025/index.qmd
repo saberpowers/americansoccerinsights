@@ -3,7 +3,7 @@ title: "2025 ASI Summit"
 toc: true
 ---
 
-# Recap
+# Overview
 
 [A day at the American Soccer Insights Summit: The latest and greatest in soccer analytics](https://www.americansocceranalysis.com/home/2025/3/3/a-day-at-the-american-soccer-insights-summit-the-latest-and-greatest-in-soccer-analytics){target=_blank}\
 Akshay Easwaran, *American Soccer Analysis*
@@ -14,9 +14,9 @@ Phil West, *Verde All Day*
 {{< video https://www.youtube.com/watch?v=-eERwaUDoKQ >}}
 
 
-# Schedule
+# Program
 
-Master of Ceremonies: [Jen Cooper](https://www.houstondynamofc.com/houstondash/news/the-keeper-jen-cooper-s-journey-through-soccer-30486){target=_blank} (Rice '90)
+Emcee: [Jen Cooper](https://www.houstondynamofc.com/houstondash/news/the-keeper-jen-cooper-s-journey-through-soccer-30486){target=_blank} (Rice '90)
 
 ## Friday, January 31, 2025
 
