@@ -8,8 +8,8 @@ website:
   navbar:
     right:
       - location/index.qmd
+      - program/index.qmd
       - registration/index.qmd
-      - schedule/index.qmd
       - sponsors/index.qmd
       - about/index.qmd
       - text: Archive
