@@ -15,9 +15,9 @@ Location: [Kraft Hall](https://maps.app.goo.gl/9buzJ7ruXKUvGJn36){target=_blank}
 
 1:00p Summit Welcome
 
-*Industry Keynote*\
 1:10p
-[Carlos Vela](https://www.linkedin.com/in/carlos-vela-abba36228/){target=_blank} (Sporting Director, LD Alajuelense)
+[Carlos Vela](https://www.linkedin.com/in/carlos-vela-abba36228/){target=_blank} (Sporting Director, LD Alajuelense)\
+*Industry Keynote*
 
 1:50p
 [Hayden Van Brewer](https://www.linkedin.com/in/hayden-van-brewer/){target=_blank}
@@ -60,9 +60,9 @@ Enjoy breakfast tacos from [Black Walnut Cafe](https://www.blackwalnutcafe.com/)
 
 9:00a Saturday Welcome
 
-*Academic Keynote*\
 9:10a
-[Tim Swartz](https://www.sfu.ca/~tswartz/){target=_blank} (Professor of Statistics & Actuarial Science, Simon Fraser University)
+[Tim Swartz](https://www.sfu.ca/~tswartz/){target=_blank} (Professor of Statistics & Actuarial Science, Simon Fraser University)\
+*Academic Keynote*
 
 9:50p Interactive Round Table Discussions #3
 
@@ -131,5 +131,7 @@ Enjoy and coffee and tea from [Common Bond](https://www.commonbondcafe.com/){tar
 ### 5:00p *Expected Own Goals* Live Podcast
 
 5:40p Summit Concludes
+
+*Disclaimer: Schedule is subject to change*
 
 [![](../assets/rice.png){width=500 fig-align="center"}](https://sport.rice.edu/sport-analytics-major){target="_blank"}
