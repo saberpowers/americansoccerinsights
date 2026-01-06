@@ -36,7 +36,8 @@ and [Matt Cohen](https://www.linkedin.com/in/mattcohenskillcorner/){target=_blan
 [Sam Gregory](https://www.samgregory.me/){target=_blank} (Moderator)
 
 4:15p
-[Oliver Miller-Farrell](https://www.linkedin.com/in/olivermillerfarrell/){target=_blank} (Assistant General Manager, Nashville SC)
+[Oliver Miller-Farrell](https://www.linkedin.com/in/olivermillerfarrell/){target=_blank} (Assistant General Manager, Nashville SC)\
+&emsp; "From Collection to Decision"
 
 4:40p Andrew Bates (Teamworks)
 
@@ -73,18 +74,22 @@ Enjoy and coffee and tea from [Common Bond](https://www.commonbondcafe.com/){tar
 ### 11:05a Morning Session 2
 
 11:05a
-[Debashis Mondal](https://sites.wustl.edu/debashismondal/home/home/){target=_blank} (Associate Professor of Statistics & Data Science, Washington University)
+[Debashis Mondal](https://sites.wustl.edu/debashismondal/home/home/){target=_blank} (Associate Professor of Statistics & Data Science, Washington University)\
+&emsp; "Analyzing Soccer Shots with Spatial Hierarchical IRT Models"
 
 11:30a Maddalena Torricelli and Brennan Klein (Northeastern University)\
 &emsp; "The Team Support Network: Quantifying Off-Ball Impact in Women's Elite Soccer through Tracking Data"
 
-11:40a *Presentation Pending Confirmation*
+11:40a
+[Guanyu Hu](https://sites.google.com/site/nealguanyu/){target=_blank} (Associate Professor of Statistics & Probability, Michigan State University)\
+&emsp; "How Much Does Home Field Advantage Matter in Soccer Games? A Causal Inference Approach"
 
 12:05p Meredith Shea, Miles Sondergaard Jensen, Gaku Aihara (Vassar College)\
 &emsp; "Off-Ball Run Value: Quantifying the Quality of Off-Ball Runs"
 
 12:15p
-[Kendall Thomas](https://www.linkedin.com/in/kendall-thomas-5bb903114/){target=_blank} (Doctoral Candidate, University of North Carolina at Chapel Hill)
+[Kendall Thomas](https://www.linkedin.com/in/kendall-thomas-5bb903114/){target=_blank} (Doctoral Candidate, University of North Carolina at Chapel Hill)\
+&emsp; "Movement Dynamics in Elite Female Soccer Athletes: The Quantile Cube Approach"
 
 ### 12:40p Lunch
 
@@ -93,7 +98,8 @@ Enjoy a selection of lunch options from [Local Foods](https://www.localfoodstexa
 ### 1:40p Afternoon Session 1
 
 1:40p
-[Devin Pleuler](https://www.linkedin.com/in/dpleuler/){target=_blank} (Sr Director of Research & Development, Maple Leaf Sports & Entertainment)
+[Devin Pleuler](https://www.linkedin.com/in/dpleuler/){target=_blank} (Sr Director of Research & Development, Maple Leaf Sports & Entertainment)\
+&emsp; "Building Unfair Advantages: Analytics at Multi-Sport Organizations"
 
 2:05p Lou Zhou (Rice University)\
 &emsp; "GPS: A Metric for Evaluating Goalkeeper Positioning"
