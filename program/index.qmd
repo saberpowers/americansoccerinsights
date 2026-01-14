@@ -32,14 +32,15 @@ and [Matt Cohen](https://www.linkedin.com/in/mattcohenskillcorner/){target=_blan
 3:30p US Soccer Panel, featuring\
 &emsp; [Vicky Jepson](https://www.linkedin.com/in/vicky-jepson-86271059/){target=_blank},
 [Kaleb Parker](https://www.linkedin.com/in/kalebmparker/){target=_blank},
-[Natasha Patel](https://www.linkedin.com/in/natasha-patel-2aa4bb27/){target=_blank}, &
-[Sam Gregory](https://www.samgregory.me/){target=_blank} (Moderator)
+[Natasha Patel](https://www.linkedin.com/in/natasha-patel-2aa4bb27/){target=_blank} &
+[John Muller](https://johnspacemuller.com/){target=_blank} (Moderator)
 
 4:15p
 [Oliver Miller-Farrell](https://www.linkedin.com/in/olivermillerfarrell/){target=_blank} (Assistant General Manager, Nashville SC)\
 &emsp; "From Collection to Decision"
 
-4:40p Andrew Bates (Teamworks)
+4:40p Andrew Bates (Teamworks)\
+&emsp; "Practical Uses of DuckDB"
 
 5:05p Interactive Round Table Discussions #2, presented by [Teamworks](https://teamworks.com/){target=_blank}
 
@@ -61,9 +62,10 @@ Enjoy breakfast tacos from [Black Walnut Cafe](https://www.blackwalnutcafe.com/)
 
 9:00a Saturday Welcome
 
+*Academic Keynote*\
 9:10a
 [Tim Swartz](https://www.sfu.ca/~tswartz/){target=_blank} (Professor of Statistics & Actuarial Science, Simon Fraser University)\
-*Academic Keynote*
+&emsp; "Soccer Insights via Tracking Data"
 
 9:50a Interactive Round Table Discussions #3
 
@@ -120,7 +122,8 @@ Enjoy and coffee and tea from [Common Bond](https://www.commonbondcafe.com/){tar
 ### 3:35p Afternoon Session 2
 
 3:35p
-[Susana Ferreras](https://www.linkedin.com/in/susanaferreras/){target=_blank} (Data Analytics Lead, Arsenal FC)
+[Susana Ferreras](https://www.linkedin.com/in/susanaferreras/){target=_blank} (Data Analytics Lead, Arsenal FC)\
+&emsp; "Decision-making at Arsenal"
 
 4:00p John Daniels, Isaac Araoz, Tzu-Ying Chen (Auburn University)\
 &emsp; "Optimal Defensive Movement Against Counterattacks"
