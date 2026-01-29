@@ -81,7 +81,7 @@ Enjoy breakfast tacos, pastries, coffee and tea from [The Cottage Grocery](https
 
 11:05a
 [Debashis Mondal](https://sites.wustl.edu/debashismondal/home/home/){target=_blank} (Associate Professor of Statistics & Data Science, Washington University)\
-&emsp; "Analyzing Soccer Shots with Spatial Hierarchical IRT Models"
+&emsp; "Spatial Hierarchical Item Response Theory for Soccer Shot Analysis"
 
 11:30a Maddalena Torricelli and Brennan Klein (Northeastern University)\
 &emsp; "The Team Support Network: Quantifying Off-Ball Impact in Women's Elite Soccer through Tracking Data"
