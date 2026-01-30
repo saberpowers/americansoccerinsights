@@ -3,6 +3,8 @@ title: "Program"
 toc: true
 ---
 
+[Papers and Abstracts](abstracts)
+
 Emcee: [Jen Cooper](https://www.houstondynamofc.com/houstondash/news/the-keeper-jen-cooper-s-journey-through-soccer-30486){target=_blank} (Rice '90)
 
 ## Friday, January 30, 2026
@@ -42,11 +44,12 @@ Enjoy coffee, tea and pastries from [Common Bond](https://www.commonbondcafe.com
 4:15p
 [Oliver Miller-Farrell](https://www.linkedin.com/in/olivermillerfarrell/){target=_blank} (Assistant General Manager, Nashville SC)\
 &emsp; "From Collection to Decision"
+[{{< iconify mdi info-outline >}}](abstracts#oliver-miller-farrell)
 
 4:40p Andrew Bates (Teamworks)\
 &emsp; "Practical Uses of DuckDB"
 
-5:05p Interactive Round Table Discussions #2, presented by [Teamworks](https://teamworks.com/){target=_blank}
+5:05p Interactive Round Table Discussions #2, presented by &nbsp;[![](../../assets/teamworks.png){height=24}](https://teamworks.com/){target=_blank}
 
 5:50p Friday Content Concludes
 
@@ -70,6 +73,7 @@ Enjoy breakfast tacos, pastries, coffee and tea from [The Cottage Grocery](https
 9:10a
 [Tim Swartz](https://www.sfu.ca/~tswartz/){target=_blank} (Professor of Statistics & Actuarial Science, Simon Fraser University)\
 &emsp; "Soccer Insights via Tracking Data"
+[{{< iconify mdi info-outline >}}](abstracts#tim-swartz-keynote)
 
 9:50a Interactive Round Table Discussions #3
 
@@ -82,6 +86,7 @@ Enjoy breakfast tacos, pastries, coffee and tea from [The Cottage Grocery](https
 11:05a
 [Debashis Mondal](https://sites.wustl.edu/debashismondal/home/home/){target=_blank} (Associate Professor of Statistics & Data Science, Washington University)\
 &emsp; "Spatial Hierarchical Item Response Theory for Soccer Shot Analysis"
+[{{< iconify mdi info-outline >}}](abstracts#debashis-mondal)
 
 11:30a Maddalena Torricelli and Brennan Klein (Northeastern University)\
 &emsp; "The Team Support Network: Quantifying Off-Ball Impact in Women's Elite Soccer through Tracking Data"
@@ -101,6 +106,7 @@ Enjoy breakfast tacos, pastries, coffee and tea from [The Cottage Grocery](https
 [Kendall Thomas](https://www.linkedin.com/in/kendall-thomas-5bb903114/){target=_blank} (Doctoral Candidate, University of North Carolina at Chapel Hill)\
 &emsp; "Movement Dynamics in Elite Female Soccer Athletes: The Quantile Cube Approach"
 [{{< iconify simple-icons arxiv >}}](https://arxiv.org/abs/2503.11815){target=_blank}
+[{{< iconify mdi info-outline >}}](abstracts#kendall-thomas)
 
 ### 12:40p Lunch
 
@@ -111,6 +117,7 @@ Enjoy a selection of lunch options from [Local Foods](https://www.localfoodstexa
 1:40p
 [Devin Pleuler](https://www.linkedin.com/in/dpleuler/){target=_blank} (Sr Director of Research & Development, Maple Leaf Sports & Entertainment)\
 &emsp; "Building Unfair Advantages: Analytics at Multi-Sport Organizations"
+[{{< iconify mdi info-outline >}}](abstracts#devin-pleuler)
 
 2:05p Lou Zhou (Rice University)\
 &emsp; "GPS: A Metric for Evaluating Goalkeeper Positioning"
@@ -136,6 +143,7 @@ Enjoy coffee, tea and treats from [Tiny's Milk & Cookies](https://tinysmilkandco
 3:35p
 [Susana Ferreras](https://www.linkedin.com/in/susanaferreras/){target=_blank} (Data Analytics Lead, Arsenal FC)\
 &emsp; "Decision-making at Arsenal"
+[{{< iconify mdi info-outline >}}](abstracts#susana-ferreras)
 
 4:00p John Daniels, Isaac Araoz, Tzu-Ying Chen (Auburn University)\
 &emsp; "Optimal Defensive Movement Against Counterattacks"

@@ -1,0 +1,85 @@
+---
+title: "Papers and Abstracts"
+toc: true
+---
+
+## Papers
+
+### Research Breakaways
+
+Presented by &nbsp;[![](../../assets/skillcorner.png){height=12}](https://skillcorner.com/){target=_blank}
+
+[A Geometric Framework for Measuring Preventive Defensive Positioning in Women's Soccer](https://drive.google.com/file/d/1bMNE9NHfRFNII3fprx8P2-NjxdUetLon){target=_blank}\
+Luke Blommesteyn (University of Western Ontario)
+
+[Optimal Defensive Movement Against Counterattacks](https://drive.google.com/file/d/1vIQv2IUo_X2oKJi_1Z72bIZ3p91kPo72){target=_blank}\
+John Daniels, Isaac Araoz, Tzu-Ying Chen (Auburn University)
+
+[Valuing the Effect of Off-Ball Runs in Increasing Dribble Success](https://drive.google.com/file/d/1i59X5PgVQsKCMJCttfEf310bnDhzR2n8){target=_blank}
+[{{< iconify mdi github >}}](https://github.com/Adam-Endress/Valuing-the-Effect-of-Off-Ball-Runs-in-Increasing-Dribble-Success){target=_blank}\
+Adam Endress (Oregon State University)
+
+[Off-Ball Run Value: Quantifying the Quality of Off-Ball Runs](https://drive.google.com/file/d/1Okzn8lyFs8-om_QgV-Ycs-DeEmPvb-N2){target=_blank}
+[{{< iconify mdi github >}}](https://github.com/mshea-08/run-analysis){target=_blank}\
+Meredith Shea, Miles Sondergaard Jensen, Gaku Aihara (Vassar College)
+
+[The Team Support Network: Quantifying Off-Ball Impact in Women's Elite Soccer through Tracking Data](https://drive.google.com/file/d/1aSHOxHOX5dH2136mGZTDD6AGC8n95vlM){target=_blank}\
+Maddalena Torricelli and Brennan Klein (Northeastern University)
+
+[GPS: A Metric for Evaluating Goalkeeper Positioning](https://drive.google.com/file/d/1Ah5G6Z1yrfsuR_-l1OpWcdhDFJI0LcL-){target=_blank}
+[{{< iconify mdi github >}}](https://github.com/Lou-Zhou/asi_goalkeeper_positioning){target=_blank}\
+Lou Zhou (Rice University)
+
+### Papers on arXiv
+
+[How Much Does Home Field Advantage Matter in Soccer Games? A Causal Inference Approach](https://arxiv.org/abs/2205.07193){target=_blank}\
+Chen Wang, Katherine Price, Hengrui Cai, Weining Shen, Zhanrui Cai, Guanyu Hu
+
+[Beyond Expected Goals: A Probabilistic Framework for Shot Occurrences in Soccer](https://arxiv.org/abs/2512.00203){target=_blank}\
+Jonathan Pipping-Gamón, Tianshu Feng, R Paul Sabin
+
+[Movement Dynamics in Elite Female Soccer Athletes: The Quantile Cube Approach](https://arxiv.org/abs/2503.11815){target=_blank}\
+Kendall L Thomas, Jan Hannig
+
+[Harder, shorter, sharper, forward: A comparison of women's and men's elite football gameplay](https://arxiv.org/abs/2506.22119){target=_blank}\
+Rebecca Carstens, Raj Deshpande, Pau Esteve, Nicolò Fidelibus, Sara Linde Neven, Ramona Ottow, Lokamruth KR, Paula Rodríguez-Sánchez, Luca Santagata, Javier M Buldú, Brennan Klein, Maddalena Torricelli
+
+## Abstracts
+
+### Tim Swartz (Keynote)
+
+Soccer Insights via Tracking Data
+
+This talk concerns two problems in soccer analytics that both rely on tracking data. Both investigations are novel and should be regarded as preliminary work. The first problem begins with a review of average aging curves in sport. Then, a new approach is introduced which addresses personal aging curves in soccer, an important problem of interest which has not been previously addressed. The second problem concerns an analysis of pressing in soccer. Although the tactic of pressing has been employed for a long time, there are many ways that presses can be implemented. Consequently, the definition and identification of a press is not straightforward. Our investigation implements a Markov model and a Bayesian approach to reduce dimensionality and gain insights. 
+
+### Susana Ferreras
+
+Decision-making at Arsenal 
+
+Decision-making is a complex and evolving theme. In this presentation, we will walk through the Arsenal journey in the last few seasons, and how data analysis has been integrated into the club at different levels and impacting different stakeholders.
+
+### Oliver Miller-Farrell
+
+From Collection to Decision
+
+Drawing on experience across data providers, commercial organizations, and professional clubs, Oliver reflects on working with data from collection, through productization, to its use in decision-making. The talk looks at how data changes as it moves between different end users, and what that means for trust, communication, and adoption, sharing practical lessons about what it takes for data to actually influence real decisions.
+
+### Debashis Mondal
+
+Spatial Hierarchical Item Response Theory for Soccer Shot Analysis
+
+Soccer, the world's most popular sport, captivates millions with its dynamic gameplay and strategic depth. In sports analytics, analyzing soccer shot data offers valuable insights into team performance and player efficiency. In this talk, I focus on spatial hierarchical IRT models, which extend classical item response theory to the analysis of shot data from the English Premier League. By incorporating different types of symmetry---such as axial and reflectional---I examine how shot success probabilities vary across different areas of the field, quantify teams' attacking and defensive abilities, and assess the effects of formations, home-field advantage, seasonal trends, and temporal dynamics. In addition, I compare open-play and set-piece situations and analyze how success probabilities differ for shots taken with the right foot versus the left. I will also discuss individual players' contributions to shot success. This work is joint with PhD student Sayan Das. 
+
+### Devin Pleuler
+
+Building Unfair Advantages: Analytics at Multi-Sport Organizations
+
+Doing analytics for a single team is hard. Building a shared analytics apparatus across multiple sports inside a single organization is a different problem entirely. Drawing on my transition from leading team-level analytics to running a centralized R&D group, this talk explores what changes when teams begin sharing analytics resources. I’ll focus on how a bias to action—especially in biomechanics—can create durable, cross-sport advantages; why investments that appear sport-specific can compound elsewhere; and how hiring strategies shift when true specialists can’t realistically exist. I’ll also discuss how AI may reverse the push toward hyper-specialization, and how organizations can protect competitive advantage through selective openness.
+
+### Kendall Thomas
+
+Movement Dynamics in Elite Female Soccer Athletes: The Quantile Cube Approach
+
+This presentation introduces the Quantile Cube, a novel three-dimensional summary representation designed to analyze external load using GPS-derived movement data. By segmenting athlete movements into discrete quantiles of velocity, acceleration, and angle, this framework captures complex dynamics often missed by aggregate metrics. We first detail the statistical validation of the method using data from elite female soccer athletes across 23 matches. Analysis using Principal Component Analysis and Dirichlet-multinomial regression reveals significant half-to-half variations and distinct position-specific movement profiles. We then extend this methodology beyond retrospective analysis to demonstrate its deployment in a high-performance setting. Specifically, we showcase the application of the Quantile Cube by a professional women's soccer team for in-season monitoring. We detail how this probabilistic approach integrates into daily workflows, allowing practitioners to assess workload accumulation over time. This presentation bridges the gap between rigorous statistical modeling and practical, on-field performance optimization in women’s soccer.
+
+[![](../../assets/rice.png){width=500 fig-align="center"}](https://sport.rice.edu/sport-analytics-major){target="_blank"}
