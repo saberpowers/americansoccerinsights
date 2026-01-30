@@ -85,17 +85,22 @@ Enjoy breakfast tacos, pastries, coffee and tea from [The Cottage Grocery](https
 
 11:30a Maddalena Torricelli and Brennan Klein (Northeastern University)\
 &emsp; "The Team Support Network: Quantifying Off-Ball Impact in Women's Elite Soccer through Tracking Data"
+[{{< iconify mdi paper-outline >}}](https://drive.google.com/file/d/1aSHOxHOX5dH2136mGZTDD6AGC8n95vlM){target=_blank}
 
 11:40a
 [Guanyu Hu](https://sites.google.com/site/nealguanyu/){target=_blank} (Associate Professor of Statistics & Probability, Michigan State University)\
 &emsp; "How Much Does Home Field Advantage Matter in Soccer Games? A Causal Inference Approach"
+[{{< iconify simple-icons arxiv >}}](https://arxiv.org/abs/2205.07193){target=_blank}
 
 12:05p Meredith Shea, Miles Sondergaard Jensen, Gaku Aihara (Vassar College)\
 &emsp; "Off-Ball Run Value: Quantifying the Quality of Off-Ball Runs"
+[{{< iconify mdi paper-outline >}}](https://drive.google.com/file/d/1Okzn8lyFs8-om_QgV-Ycs-DeEmPvb-N2){target=_blank}
+[{{< iconify mdi github >}}](https://github.com/mshea-08/run-analysis){target=_blank}
 
 12:15p
 [Kendall Thomas](https://www.linkedin.com/in/kendall-thomas-5bb903114/){target=_blank} (Doctoral Candidate, University of North Carolina at Chapel Hill)\
 &emsp; "Movement Dynamics in Elite Female Soccer Athletes: The Quantile Cube Approach"
+[{{< iconify simple-icons arxiv >}}](https://arxiv.org/abs/2503.11815){target=_blank}
 
 ### 12:40p Lunch
 
@@ -109,9 +114,12 @@ Enjoy a selection of lunch options from [Local Foods](https://www.localfoodstexa
 
 2:05p Lou Zhou (Rice University)\
 &emsp; "GPS: A Metric for Evaluating Goalkeeper Positioning"
+[{{< iconify mdi paper-outline >}}](https://drive.google.com/file/d/1Ah5G6Z1yrfsuR_-l1OpWcdhDFJI0LcL-){target=_blank}
+[{{< iconify mdi github >}}](https://github.com/Lou-Zhou/asi_goalkeeper_positioning){target=_blank}
 
 2:15p Maddalena Torricelli (Northeastern University)\
 &emsp; "Harder, Shorter, Sharper, Forward: A Comparison of Women's and Men's Elite Football Gameplay"
+[{{< iconify simple-icons arxiv >}}](https://arxiv.org/abs/2506.22119){target=_blank}
 
 2:35p David Almona (Centre College), Natalie Rayce (Carnegie Mellon University)\
 &emsp; "Forced Turnover: Evaluating Pressing Effectiveness in Soccer"
@@ -131,18 +139,23 @@ Enjoy coffee, tea and treats from [Tiny's Milk & Cookies](https://tinysmilkandco
 
 4:00p John Daniels, Isaac Araoz, Tzu-Ying Chen (Auburn University)\
 &emsp; "Optimal Defensive Movement Against Counterattacks"
+[{{< iconify mdi paper-outline >}}](https://drive.google.com/file/d/1vIQv2IUo_X2oKJi_1Z72bIZ3p91kPo72){target=_blank}
 
 4:10p Daniel Castro, Colin Scifert, Jan-Anders Mansson (Purdue University)\
 &emsp; "Adversity Flags in Soccer Based on Individual Spatial Ownership and Pressure Received"
 
 4:30p Adam Endress (Oregon State University)\
 &emsp; "Valuing the Effect of Off-Ball Runs in Increasing Dribble Success"
+[{{< iconify mdi paper-outline >}}](https://drive.google.com/file/d/1i59X5PgVQsKCMJCttfEf310bnDhzR2n8){target=_blank}
+[{{< iconify mdi github >}}](https://github.com/Adam-Endress/Valuing-the-Effect-of-Off-Ball-Runs-in-Increasing-Dribble-Success){target=_blank}
 
 4:40p Jonathan Pipping, Tianshu Feng, Paul Sabin (University of Pennsylvania)\
 &emsp; "Beyond Expected Goals: A Probabilistic Framework for Shot Occurrences in Soccer"
+[{{< iconify simple-icons arxiv >}}](https://arxiv.org/abs/2512.00203){target=_blank}
 
 5:00p Luke Blommesteyn (University of Western Ontario)\
 &emsp; "A Geometric Framework for Measuring Preventive Defensive Positioning in Women's Soccer"
+[{{< iconify mdi paper-outline >}}](https://drive.google.com/file/d/1bMNE9NHfRFNII3fprx8P2-NjxdUetLon){target=_blank}
 
 ### 5:10p *Expected Own Goals* Live Podcast
 
