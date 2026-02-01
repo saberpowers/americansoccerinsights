@@ -4,4 +4,12 @@ title: "Registration"
 
 Registration is closed.
 
+### Refund Policy
+
+- Until 28 days before the Summit, you may request a cancellation for a full refund (less processing fees).
+- Until 14 days before the Summit, you may request a cancellation for a 50% refund.
+- After 14 days in advance of the Summit, we will not honor refund requests.
+
+To request a cancellation of your registration, please [contact](../about#contact) us.
+
 [![](../assets/rice.png){width=500 fig-align="center"}](https://sport.rice.edu/sport-analytics-major){target="_blank"}
