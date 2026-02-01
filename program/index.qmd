@@ -157,9 +157,10 @@ Enjoy coffee, tea and treats from [Tiny's Milk & Cookies](https://tinysmilkandco
 [{{< iconify mdi paper-outline >}}](https://drive.google.com/file/d/1i59X5PgVQsKCMJCttfEf310bnDhzR2n8){target=_blank}
 [{{< iconify mdi github >}}](https://github.com/Adam-Endress/Valuing-the-Effect-of-Off-Ball-Runs-in-Increasing-Dribble-Success){target=_blank}
 
-4:40p Jonathan Pipping, Tianshu Feng, Paul Sabin (University of Pennsylvania)\
+4:40p Jonathan Pipping-Gam&oacute;n, Tianshu Feng, Paul Sabin (University of Pennsylvania)\
 &emsp; "Beyond Expected Goals: A Probabilistic Framework for Shot Occurrences in Soccer"
 [{{< iconify simple-icons arxiv >}}](https://arxiv.org/abs/2512.00203){target=_blank}
+[{{< iconify mdi github >}}](https://github.com/WhartonSABI/xg-plus){target=_blank}
 
 5:00p Luke Blommesteyn (University of Western Ontario)\
 &emsp; "A Geometric Framework for Measuring Preventive Defensive Positioning in Women's Soccer"

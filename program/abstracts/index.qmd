@@ -36,7 +36,7 @@ Lou Zhou (Rice University)
 Chen Wang, Katherine Price, Hengrui Cai, Weining Shen, Zhanrui Cai, Guanyu Hu
 
 [Beyond Expected Goals: A Probabilistic Framework for Shot Occurrences in Soccer](https://arxiv.org/abs/2512.00203){target=_blank}\
-Jonathan Pipping-Gamón, Tianshu Feng, R Paul Sabin
+Jonathan Pipping-Gam&oacute;n, Tianshu Feng, R Paul Sabin
 
 [Movement Dynamics in Elite Female Soccer Athletes: The Quantile Cube Approach](https://arxiv.org/abs/2503.11815){target=_blank}\
 Kendall L Thomas, Jan Hannig
