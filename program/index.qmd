@@ -21,11 +21,13 @@ Location: [Kraft Hall](https://maps.app.goo.gl/9buzJ7ruXKUvGJn36){target=_blank}
 1:10p
 [Carlos Vela](https://www.linkedin.com/in/carlos-vela-abba36228/){target=_blank} (Sporting Director, LD Alajuelense)\
 &emsp; "Sporting Director: Putting Data into Action"
+[{{< iconify simple-icons youtube >}}](https://www.youtube.com/watch?list=PLooHGtwuMu4XnxRexiC_56W2Bz5hng4Cy&v=fyNOk4aGz68){target=_blank}
 
 1:50p
 [Hayden Van Brewer](https://www.linkedin.com/in/hayden-van-brewer/){target=_blank}
 and [Matt Cohen](https://www.linkedin.com/in/mattcohenskillcorner/){target=_blank} (SkillCorner)\
 &emsp; "But Are They Asked to Do It? Using Change of Direction Ability to Assess Pressers"
+[{{< iconify simple-icons youtube >}}](https://www.youtube.com/watch?list=PLooHGtwuMu4XnxRexiC_56W2Bz5hng4Cy&v=Yoefw5LbTrk){target=_blank}
 
 2:15p Interactive Round Table Discussions #1
 
@@ -44,10 +46,12 @@ Enjoy coffee, tea and pastries from [Common Bond](https://www.commonbondcafe.com
 4:15p
 [Oliver Miller-Farrell](https://www.linkedin.com/in/olivermillerfarrell/){target=_blank} (Assistant General Manager, Nashville SC)\
 &emsp; "From Collection to Decision"
+[{{< iconify simple-icons youtube >}}](https://www.youtube.com/watch?list=PLooHGtwuMu4XnxRexiC_56W2Bz5hng4Cy&v=FX74A1nvzqQ){target=_blank}
 [{{< iconify mdi info-outline >}}](abstracts#oliver-miller-farrell)
 
 4:40p Andrew Bates (Teamworks)\
 &emsp; "Practical Uses of DuckDB"
+[{{< iconify simple-icons youtube >}}](https://www.youtube.com/watch?list=PLooHGtwuMu4XnxRexiC_56W2Bz5hng4Cy&v=DsIA5aFKrUE){target=_blank}
 
 5:05p Interactive Round Table Discussions #2, presented by &nbsp;[![](../../assets/teamworks.png){height=24}](https://teamworks.com/){target=_blank}
 
@@ -73,6 +77,7 @@ Enjoy breakfast tacos, pastries, coffee and tea from [The Cottage Grocery](https
 9:10a
 [Tim Swartz](https://www.sfu.ca/~tswartz/){target=_blank} (Professor of Statistics & Actuarial Science, Simon Fraser University)\
 &emsp; "Soccer Insights via Tracking Data"
+[{{< iconify simple-icons youtube >}}](https://www.youtube.com/watch?list=PLooHGtwuMu4XnxRexiC_56W2Bz5hng4Cy&v=QblWl4xj3B4){target=_blank}
 [{{< iconify mdi info-outline >}}](abstracts#tim-swartz-keynote)
 
 9:50a Interactive Round Table Discussions #3
@@ -86,25 +91,30 @@ Enjoy breakfast tacos, pastries, coffee and tea from [The Cottage Grocery](https
 11:05a
 [Debashis Mondal](https://sites.wustl.edu/debashismondal/home/home/){target=_blank} (Associate Professor of Statistics & Data Science, Washington University)\
 &emsp; "Spatial Hierarchical Item Response Theory for Soccer Shot Analysis"
+[{{< iconify simple-icons youtube >}}](https://www.youtube.com/watch?list=PLooHGtwuMu4XnxRexiC_56W2Bz5hng4Cy&v=j3AUK3wy3vk){target=_blank}
 [{{< iconify mdi info-outline >}}](abstracts#debashis-mondal)
 
 11:30a Maddalena Torricelli and Brennan Klein (Northeastern University)\
-&emsp; "The Team Support Network: Quantifying Off-Ball Impact in Women's Elite Soccer through Tracking Data"
+&emsp; "Team Support Network: Quantifying Off-Ball Impact in Women's Elite Soccer through Tracking Data"
+[{{< iconify simple-icons youtube >}}](https://www.youtube.com/watch?list=PLooHGtwuMu4XnxRexiC_56W2Bz5hng4Cy&v=5OzRTXgXgi4){target=_blank}
 [{{< iconify mdi paper-outline >}}](https://drive.google.com/file/d/1aSHOxHOX5dH2136mGZTDD6AGC8n95vlM){target=_blank}
 
 11:40a
 [Guanyu Hu](https://sites.google.com/site/nealguanyu/){target=_blank} (Associate Professor of Statistics & Probability, Michigan State University)\
 &emsp; "How Much Does Home Field Advantage Matter in Soccer Games? A Causal Inference Approach"
+[{{< iconify simple-icons youtube >}}](https://www.youtube.com/watch?list=PLooHGtwuMu4XnxRexiC_56W2Bz5hng4Cy&v=nLrgTrtnPpM){target=_blank}
 [{{< iconify simple-icons arxiv >}}](https://arxiv.org/abs/2205.07193){target=_blank}
 
 12:05p Meredith Shea, Miles Sondergaard Jensen, Gaku Aihara (Vassar College)\
 &emsp; "Off-Ball Run Value: Quantifying the Quality of Off-Ball Runs"
+[{{< iconify simple-icons youtube >}}](https://www.youtube.com/watch?list=PLooHGtwuMu4XnxRexiC_56W2Bz5hng4Cy&v=2EIaXFlZIKY){target=_blank}
 [{{< iconify mdi paper-outline >}}](https://drive.google.com/file/d/1Okzn8lyFs8-om_QgV-Ycs-DeEmPvb-N2){target=_blank}
 [{{< iconify mdi github >}}](https://github.com/mshea-08/run-analysis){target=_blank}
 
 12:15p
 [Kendall Thomas](https://www.linkedin.com/in/kendall-thomas-5bb903114/){target=_blank} (Doctoral Candidate, University of North Carolina at Chapel Hill)\
 &emsp; "Movement Dynamics in Elite Female Soccer Athletes: The Quantile Cube Approach"
+[{{< iconify simple-icons youtube >}}](https://www.youtube.com/watch?list=PLooHGtwuMu4XnxRexiC_56W2Bz5hng4Cy&v=ADwbuMcN12g){target=_blank}
 [{{< iconify simple-icons arxiv >}}](https://arxiv.org/abs/2503.11815){target=_blank}
 [{{< iconify mdi info-outline >}}](abstracts#kendall-thomas)
 
@@ -121,18 +131,22 @@ Enjoy a selection of lunch options from [Local Foods](https://www.localfoodstexa
 
 2:05p Lou Zhou (Rice University)\
 &emsp; "GPS: A Metric for Evaluating Goalkeeper Positioning"
+[{{< iconify simple-icons youtube >}}](https://www.youtube.com/watch?list=PLooHGtwuMu4XnxRexiC_56W2Bz5hng4Cy&v=Yg8ntON0m6U){target=_blank}
 [{{< iconify mdi paper-outline >}}](https://drive.google.com/file/d/1Ah5G6Z1yrfsuR_-l1OpWcdhDFJI0LcL-){target=_blank}
 [{{< iconify mdi github >}}](https://github.com/Lou-Zhou/asi_goalkeeper_positioning){target=_blank}
 
 2:15p Maddalena Torricelli (Northeastern University)\
 &emsp; "Harder, Shorter, Sharper, Forward: A Comparison of Women's and Men's Elite Football Gameplay"
+[{{< iconify simple-icons youtube >}}](https://www.youtube.com/watch?list=PLooHGtwuMu4XnxRexiC_56W2Bz5hng4Cy&v=hiAP7Ulefis){target=_blank}
 [{{< iconify simple-icons arxiv >}}](https://arxiv.org/abs/2506.22119){target=_blank}
 
 2:35p David Almona (Centre College), Natalie Rayce (Carnegie Mellon University)\
 &emsp; "Forced Turnover: Evaluating Pressing Effectiveness in Soccer"
+[{{< iconify simple-icons youtube >}}](https://www.youtube.com/watch?list=PLooHGtwuMu4XnxRexiC_56W2Bz5hng4Cy&v=BM25U4DI7XA){target=_blank}
 
 2:45p Adebisi Akinyemi, Dillon Stewart, Lennie Waite (HITE EQ)\
 &emsp; "Which Athletes are 'Mentality Monsters'?: Clustering Athletes by their Psychological Attributes"
+[{{< iconify simple-icons youtube >}}](https://www.youtube.com/watch?list=PLooHGtwuMu4XnxRexiC_56W2Bz5hng4Cy&v=qMt23aOZJs0){target=_blank}
 
 ### 3:05p Afternoon Break
 
@@ -147,6 +161,7 @@ Enjoy coffee, tea and treats from [Tiny's Milk & Cookies](https://tinysmilkandco
 
 4:00p John Daniels, Isaac Araoz, Tzu-Ying Chen (Auburn University)\
 &emsp; "Optimal Defensive Movement Against Counterattacks"
+[{{< iconify simple-icons youtube >}}](https://www.youtube.com/watch?list=PLooHGtwuMu4XnxRexiC_56W2Bz5hng4Cy&v=q2RbUIpCGL4){target=_blank}
 [{{< iconify mdi paper-outline >}}](https://drive.google.com/file/d/1vIQv2IUo_X2oKJi_1Z72bIZ3p91kPo72){target=_blank}
 
 4:10p Daniel Castro, Colin Scifert, Jan-Anders Mansson (Purdue University)\
@@ -154,16 +169,19 @@ Enjoy coffee, tea and treats from [Tiny's Milk & Cookies](https://tinysmilkandco
 
 4:30p Adam Endress (Oregon State University)\
 &emsp; "Valuing the Effect of Off-Ball Runs in Increasing Dribble Success"
+[{{< iconify simple-icons youtube >}}](https://www.youtube.com/watch?list=PLooHGtwuMu4XnxRexiC_56W2Bz5hng4Cy&v=bALae7x0BPg){target=_blank}
 [{{< iconify mdi paper-outline >}}](https://drive.google.com/file/d/1i59X5PgVQsKCMJCttfEf310bnDhzR2n8){target=_blank}
 [{{< iconify mdi github >}}](https://github.com/Adam-Endress/Valuing-the-Effect-of-Off-Ball-Runs-in-Increasing-Dribble-Success){target=_blank}
 
 4:40p Jonathan Pipping-Gam&oacute;n, Tianshu Feng, Paul Sabin (University of Pennsylvania)\
 &emsp; "Beyond Expected Goals: A Probabilistic Framework for Shot Occurrences in Soccer"
+[{{< iconify simple-icons youtube >}}](https://www.youtube.com/watch?list=PLooHGtwuMu4XnxRexiC_56W2Bz5hng4Cy&v=-LAlI2_nqkg){target=_blank}
 [{{< iconify simple-icons arxiv >}}](https://arxiv.org/abs/2512.00203){target=_blank}
 [{{< iconify mdi github >}}](https://github.com/WhartonSABI/xg-plus){target=_blank}
 
 5:00p Luke Blommesteyn (University of Western Ontario)\
 &emsp; "A Geometric Framework for Measuring Preventive Defensive Positioning in Women's Soccer"
+[{{< iconify simple-icons youtube >}}](https://www.youtube.com/watch?list=PLooHGtwuMu4XnxRexiC_56W2Bz5hng4Cy&v=enYdbNaBWc4){target=_blank}
 [{{< iconify mdi paper-outline >}}](https://drive.google.com/file/d/1bMNE9NHfRFNII3fprx8P2-NjxdUetLon){target=_blank}
 
 ### 5:10p *Expected Own Goals* Live Podcast

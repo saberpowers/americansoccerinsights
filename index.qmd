@@ -15,6 +15,11 @@ about:
       target: _blank
 ---
 
+[ASA Roundtable: American Soccer Insight Summit](https://www.americansocceranalysis.com/home/2026/2/7/asa-roundtable-american-soccer-insights-summit){target=_blank}\
+*American Soccer Analysis*
+
+[Photography](https://photos.app.goo.gl/uJjMw83zQLamidZ27){target=_blank}
+
 The ASI Summit at Rice University is a soccer analytics conference that brings together researchers and analysts from professional teams, media outlets and universities. The agenda strikes a balance between presentations from those doing private work and those doing public work, as well as students showcasing their projects.
 
 The goals of the ASI Summit are:
