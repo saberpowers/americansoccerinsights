@@ -175,7 +175,6 @@ Enjoy coffee, tea and treats from [Tiny's Milk & Cookies](https://tinysmilkandco
 
 4:40p Jonathan Pipping-Gam&oacute;n, Tianshu Feng, Paul Sabin (University of Pennsylvania)\
 &emsp; "Beyond Expected Goals: A Probabilistic Framework for Shot Occurrences in Soccer"
-[{{< iconify simple-icons youtube >}}](https://www.youtube.com/watch?list=PLooHGtwuMu4XnxRexiC_56W2Bz5hng4Cy&v=-LAlI2_nqkg){target=_blank}
 [{{< iconify simple-icons arxiv >}}](https://arxiv.org/abs/2512.00203){target=_blank}
 [{{< iconify mdi github >}}](https://github.com/WhartonSABI/xg-plus){target=_blank}
 
