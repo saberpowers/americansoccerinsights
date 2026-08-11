@@ -63,4 +63,4 @@ We will begin reviewing proposals after the submission deadline and aim to relea
 
 Selected researchers will have a second deadline at the beginning of December to complete their projects and submit their papers. Those invited to present their work at the Summit will be selected by late December.
 
-[![](../assets/rice.png){width=500 fig-align="center"}](https://sport.rice.edu/sport-analytics-major){target="_blank"}
+[![](/assets/rice.png){width=500 fig-align="center"}](https://sport.rice.edu/sport-analytics-major){target="_blank"}

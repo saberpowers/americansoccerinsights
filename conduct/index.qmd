@@ -40,4 +40,4 @@ The Summit maintains a respectful and collegial environment free from harassment
 
 Participants who experience, observe or have knowledge of conduct that violates this Code are encouraged to report it to Summit organizers. Reports can be made in person; via email to [americansoccerinsights@gmail.com](mailto:americansoccerinsights@gmail.com); or through an anonymous [reporting form](https://forms.gle/vyWduv2tbebk3cSP6){target=_blank}. The organizers will handle reports confidentially, investigate promptly and take appropriate actions.
 
-[![](../assets/rice.png){width=500 fig-align="center"}](https://sport.rice.edu/sport-analytics-major){target="_blank"}
+[![](/assets/rice.png){width=500 fig-align="center"}](https://sport.rice.edu/sport-analytics-major){target="_blank"}
