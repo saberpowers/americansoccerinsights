@@ -8,12 +8,12 @@ website:
   navbar:
     right:
       - location/index.qmd
-      - program/index.qmd
       - registration/index.qmd
       - sponsors/index.qmd
       - about/index.qmd
       - text: Archive
         menu:
+          - archive/2026/index.qmd
           - archive/2025/index.qmd
 format:
   html:

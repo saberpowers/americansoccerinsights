@@ -7,7 +7,7 @@ toc: true
 
 ### Research Breakaways
 
-Presented by &nbsp;[![](../../assets/skillcorner.png){height=12}](https://skillcorner.com/){target=_blank}
+Presented by &nbsp;[![](/assets/skillcorner.png){height=12}](https://skillcorner.com/){target=_blank}
 
 [A Geometric Framework for Measuring Preventive Defensive Positioning in Women's Soccer](https://drive.google.com/file/d/1bMNE9NHfRFNII3fprx8P2-NjxdUetLon){target=_blank}\
 Luke Blommesteyn (University of Western Ontario)
@@ -82,4 +82,4 @@ Movement Dynamics in Elite Female Soccer Athletes: The Quantile Cube Approach
 
 This presentation introduces the Quantile Cube, a novel three-dimensional summary representation designed to analyze external load using GPS-derived movement data. By segmenting athlete movements into discrete quantiles of velocity, acceleration, and angle, this framework captures complex dynamics often missed by aggregate metrics. We first detail the statistical validation of the method using data from elite female soccer athletes across 23 matches. Analysis using Principal Component Analysis and Dirichlet-multinomial regression reveals significant half-to-half variations and distinct position-specific movement profiles. We then extend this methodology beyond retrospective analysis to demonstrate its deployment in a high-performance setting. Specifically, we showcase the application of the Quantile Cube by a professional women's soccer team for in-season monitoring. We detail how this probabilistic approach integrates into daily workflows, allowing practitioners to assess workload accumulation over time. This presentation bridges the gap between rigorous statistical modeling and practical, on-field performance optimization in women’s soccer.
 
-[![](../../assets/rice.png){width=500 fig-align="center"}](https://sport.rice.edu/sport-analytics-major){target="_blank"}
+[![](/assets/rice.png){width=500 fig-align="center"}](https://sport.rice.edu/sport-analytics-major){target="_blank"}

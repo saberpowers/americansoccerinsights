@@ -18,4 +18,4 @@ The deadline for submission is 11:59 p.m. CT on Wednesday, October 1, 2025.
 
 We will begin reviewing proposals after the submission deadline and aim to release decisions by late October. 
 
-[![](../assets/rice.png){width=500 fig-align="center"}](https://sport.rice.edu/sport-analytics-major){target="_blank"}
+[![](/assets/rice.png){width=500 fig-align="center"}](https://sport.rice.edu/sport-analytics-major){target="_blank"}

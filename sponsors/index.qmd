@@ -2,14 +2,4 @@
 title: "Sponsors"
 ---
 
-We are grateful for the support from our partners listed below.
-
 If you are interested in becoming a sponsor, please contact us at [americansoccerinsights@gmail.com](mailto:americansoccerinsights@gmail.com).
-
-&nbsp;
-
-::: {layout="[[-4,44,-4,44,-4]]" layout-valign="center"}
-[![](../assets/skillcorner.png)](https://skillcorner.com/){target=_blank}
-
-[![](../assets/teamworks.png)](https://teamworks.com/){target=_blank}
-:::
