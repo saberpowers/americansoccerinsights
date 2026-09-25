@@ -7,6 +7,7 @@ website:
   search: false
   navbar:
     right:
+      - call-for-proposals/index.qmd
       - location/index.qmd
       - registration/index.qmd
       - sponsors/index.qmd

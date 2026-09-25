@@ -17,7 +17,9 @@ about:
 
 The ASI Summit at Rice University is a soccer analytics conference that brings together researchers and analysts from professional teams, media outlets and universities. The agenda strikes a balance between presentations from those doing private work and those doing public work, as well as students showcasing their projects.
 
-**The 2027 Summit will begin on the afternoon of Friday, March 26, and run all day Saturday, March 27.**
+The 2027 Summit will begin on the afternoon of Friday, March 26, and run all day Saturday, March 27.
+
+**Our [Call for Proposals](call-for-proposals) is open until October 23.**
 
 The goals of the ASI Summit are:
 
